@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T14:59:48.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="A-0DpV9jeHnHF1i4BHcs" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T15:09:52.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="arEGDQmU0bbVbVuabtd2" version="18.0.3" type="github">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="whivXN8A2qbGqClQpVsV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E3E3;shadow=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="39" y="205" width="761" height="110" as="geometry" />
+          <mxGeometry x="39" y="205" width="761" height="365" as="geometry" />
         </mxCell>
         <mxCell id="whivXN8A2qbGqClQpVsV-7" value="信创网络" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#E3E3E3;strokeColor=none;fontColor=#D26D19;" parent="1" vertex="1">
-          <mxGeometry x="90" y="215" width="20" height="100" as="geometry" />
+          <mxGeometry x="70" y="260" width="20" height="255" as="geometry" />
         </mxCell>
         <mxCell id="whivXN8A2qbGqClQpVsV-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D7D0E3;shadow=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="593" width="750" height="220" as="geometry" />
@@ -26,13 +26,13 @@
           <mxGeometry x="50" y="843" width="750" height="100" as="geometry" />
         </mxCell>
         <mxCell id="whivXN8A2qbGqClQpVsV-28" value="随行接口机" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whivXN8A2qbGqClQpVsV-35" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="130" y="671" width="190" height="114" as="geometry" />
         </mxCell>
         <mxCell id="whivXN8A2qbGqClQpVsV-29" value="随行接口机" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="540" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whivXN8A2qbGqClQpVsV-30" value="腾讯苹果&lt;br&gt;小米华为&lt;br&gt;消息服务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="100" width="120" height="60" as="geometry" />
@@ -57,6 +57,30 @@
         </mxCell>
         <mxCell id="whivXN8A2qbGqClQpVsV-40" value="&lt;span style=&quot;&quot;&gt;H5及应用接口服务器&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#D7D0E3;" parent="1" vertex="1">
           <mxGeometry x="165" y="733" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBGxM2qAuPWXbnojut7-4" value="SIP1&lt;br&gt;存储服务器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="169.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBGxM2qAuPWXbnojut7-5" value="SIP2&lt;br&gt;存储服务器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBGxM2qAuPWXbnojut7-6" value="SIP3&lt;br&gt;存储服务器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="549.5" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBGxM2qAuPWXbnojut7-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBGxM2qAuPWXbnojut7-1" value="LIP1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBGxM2qAuPWXbnojut7-8" value="LIP2" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="374" y="360" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBGxM2qAuPWXbnojut7-9" value="LIP3" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FQBGxM2qAuPWXbnojut7-10" value="逻辑/文件服务器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="415" width="172" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
