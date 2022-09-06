@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T09:19:17.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ElRamr3P1CsLKnvCNV8X" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-09-06T00:58:57.346Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Oec5zxZ2r0DLKY7c4Ubt" version="20.2.7" type="github" pages="7">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1186" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1313,7 +1313,7 @@
           <mxGeometry x="58" y="475" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pMXO2VUyv2kpLMsi4gLw-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;内管平台网关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="420" width="1090" height="45" as="geometry" />
+          <mxGeometry x="110" y="427" width="1090" height="45" as="geometry" />
         </mxCell>
         <mxCell id="pMXO2VUyv2kpLMsi4gLw-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=default;shadow=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1387,7 +1387,25 @@
         <mxCell id="pMXO2VUyv2kpLMsi4gLw-88" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=default;shadow=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="186.33333333333348" y="280" as="sourcePoint" />
-            <mxPoint x="186.33333333333348" y="400" as="targetPoint" />
+            <mxPoint x="186.33333333333348" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pMXO2VUyv2kpLMsi4gLw-89" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=default;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="sourcePoint" />
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pMXO2VUyv2kpLMsi4gLw-90" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=default;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="380" as="sourcePoint" />
+            <mxPoint x="610" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pMXO2VUyv2kpLMsi4gLw-91" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=default;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="380" as="sourcePoint" />
+            <mxPoint x="1040" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
