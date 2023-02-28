@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T10:11:17.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="n8pOfwtBDBJU5HJz4qL4" version="20.8.20" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-02-28T10:14:40.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="v_huXQh96P1babXa6KLX" version="20.8.20" type="github" pages="12">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2370,18 +2370,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NgmofFM7CvI6Khc_vRx0" name="一网统管架构图">
-    <mxGraphModel dx="3170" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3951" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wqRcnJos7-vVSY1ffNfE-1" value="s" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="300" width="1440" height="830" as="geometry" />
         </mxCell>
+        <mxCell id="qUwmC4G2w45SrhNDNCrj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="wqRcnJos7-vVSY1ffNfE-2" target="dcKeuNw9jPrgC42DpEvr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qUwmC4G2w45SrhNDNCrj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=10;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqRcnJos7-vVSY1ffNfE-2" target="wqRcnJos7-vVSY1ffNfE-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wqRcnJos7-vVSY1ffNfE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="501.76" width="330" height="365" as="geometry" />
         </mxCell>
         <mxCell id="wqRcnJos7-vVSY1ffNfE-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;行业云&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-310" y="647.5" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qUwmC4G2w45SrhNDNCrj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="wqRcnJos7-vVSY1ffNfE-13" target="dcKeuNw9jPrgC42DpEvr-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wqRcnJos7-vVSY1ffNfE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#e1d5e7;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-328" y="300" width="328.49" height="160" as="geometry" />
@@ -2605,12 +2614,6 @@
         <mxCell id="mQ0-LasE6n-0_oot9GaQ-5" value="发票验真服务" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;shadow=1;dashed=1;labelBackgroundColor=none;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-239.51428571428573" y="1038.9800000000002" width="70" height="46.84" as="geometry" />
         </mxCell>
-        <mxCell id="bq6_X9mYaOjh68WO5kvp-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=default;shadow=0;width=20;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-6.170000000000016" y="379.22999999999996" as="sourcePoint" />
-            <mxPoint x="78.00000000000006" y="379.22999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bq6_X9mYaOjh68WO5kvp-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;接入网关&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="601.96" width="20" height="33.51" as="geometry" />
         </mxCell>
@@ -2619,15 +2622,6 @@
             <mxPoint x="217.99999999999997" y="591.58" as="sourcePoint" />
             <mxPoint x="302.1700000000001" y="591.58" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mQ0-LasE6n-0_oot9GaQ-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=default;shadow=0;width=20;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-150.77" y="860" as="sourcePoint" />
-            <mxPoint x="-150.77" y="940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bq6_X9mYaOjh68WO5kvp-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.4;dx=22;fontSize=16;strokeColor=#000000;fillColor=#fff2cc;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="667.5" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H_Wxr51OvM0NkP9b6nzz-1" value="手机" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-496.56" y="729.5" width="56" height="80" as="geometry" />
