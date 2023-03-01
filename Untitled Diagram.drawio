@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T01:14:59.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fzTek8f8qW2sMHNXrpeo" version="20.8.20" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-03-01T01:16:27.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="L2-IXr_U2GodWwrKnyTR" version="20.8.20" type="github" pages="12">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2003,7 +2003,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Okk_iTtsHWpQT3NNCL0d" name="一网统管数据流图">
-    <mxGraphModel dx="1990" dy="2156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="2251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2520,7 +2520,7 @@
         <mxCell id="E68jfvrSY1u0QTEk7XU2-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;电话平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="E68jfvrSY1u0QTEk7XU2-23">
           <mxGeometry x="36.779664728019156" y="202.12973389584602" width="178.3783783783784" height="40.75493560319089" as="geometry" />
         </mxCell>
-        <mxCell id="E68jfvrSY1u0QTEk7XU2-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;私有部署平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="E68jfvrSY1u0QTEk7XU2-23">
+        <mxCell id="E68jfvrSY1u0QTEk7XU2-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;成熟平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="E68jfvrSY1u0QTEk7XU2-23">
           <mxGeometry x="61.422405063291194" y="272.88262207169066" width="129.1139240506329" height="33.51114874400227" as="geometry" />
         </mxCell>
         <mxCell id="E68jfvrSY1u0QTEk7XU2-24" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -2728,6 +2728,15 @@
         </mxCell>
         <mxCell id="qUwmC4G2w45SrhNDNCrj-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Management_Portal.svg;rounded=0;shadow=1;labelBackgroundColor=none;strokeColor=#d6e8d5;fontColor=#000000;fillColor=#d6e8d5;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1026.69" y="350" width="62.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dXVUdX3DOFMEdm0a5t7a-1" value="电子公文系统" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="635" y="200" width="62.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dXVUdX3DOFMEdm0a5t7a-2" value="财务集团版" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="759.45" y="200" width="62.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dXVUdX3DOFMEdm0a5t7a-3" value="人力资源集团版" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="880" y="200" width="62.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
