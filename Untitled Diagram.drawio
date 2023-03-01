@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:52:37.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zoOtXKju5LJj3caUVBjY" version="20.8.20" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:53:18.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_5S3ImH9VkFI5Od7OBZ0" version="20.8.20" type="github" pages="12">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1646" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2539,13 +2539,13 @@
           <mxGeometry x="720" y="467" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upolbG0m_P1LBMfbSaDF-3" value="IM" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="401.17" y="315.14" width="62.5" height="50" as="geometry" />
+          <mxGeometry x="405.17" y="315.14" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upolbG0m_P1LBMfbSaDF-4" value="电子签章" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500.75" y="315.14000000000004" width="62.5" height="50" as="geometry" />
+          <mxGeometry x="504.75" y="315.14000000000004" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upolbG0m_P1LBMfbSaDF-5" value="智能ASR" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="606.7800000000001" y="315.14000000000004" width="62.5" height="50" as="geometry" />
+          <mxGeometry x="613.7800000000001" y="315.14000000000004" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2Ags87GqK9fI2d4-3I6T-7" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="500" y="628" width="200.16999999999996" height="90" as="geometry" />
@@ -2600,7 +2600,7 @@
           <mxGeometry x="563.6199999999999" y="399.7" width="72.94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Ags87GqK9fI2d4-3I6T-43" value="智能RPA" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="714.5" y="315.14" width="62.5" height="50" as="geometry" />
+          <mxGeometry x="718.5" y="315.14" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2Ags87GqK9fI2d4-3I6T-46" value="..." style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="827" y="315.14" width="62.5" height="50" as="geometry" />
