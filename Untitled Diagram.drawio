@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T10:08:14.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EPd0KxB_BpB3Iz3y0sGq" version="20.8.20" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-03-06T10:09:22.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="AukMrvRN-A8SDvhAjVKB" version="20.8.20" type="github" pages="12">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2370,7 +2370,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NgmofFM7CvI6Khc_vRx0" name="一网统管架构图">
-    <mxGraphModel dx="2998" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2998" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2894,7 +2894,7 @@
         <mxCell id="9RL2ceU6BBUbMXsykhpa-33" value="办公应用" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud;shadow=1;dashed=1;labelBackgroundColor=none;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="704.3857142857144" y="149.00000000000009" width="59.78" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9RL2ceU6BBUbMXsykhpa-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;移动端端统一门户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="9RL2ceU6BBUbMXsykhpa-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;移动端统一门户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="597.19" y="296.24" width="132.58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9RL2ceU6BBUbMXsykhpa-39" value="移动OA" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="1">
