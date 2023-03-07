@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T10:15:19.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Nuv3rSuoEcKD290uc272" version="20.8.20" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-03-07T02:29:55.975Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="f9zsVB1Yi_RYfcDCvZ98" version="20.8.20" type="github" pages="12">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2370,7 +2370,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NgmofFM7CvI6Khc_vRx0" name="一网统管架构图">
-    <mxGraphModel dx="3215" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2998" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2667,13 +2667,13 @@
         <mxCell id="2Ags87GqK9fI2d4-3I6T-91" value="绩效考核" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="475" y="485" width="62.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2Ags87GqK9fI2d4-3I6T-92" value="资产管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="2Ags87GqK9fI2d4-3I6T-92" value="预算管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="254" y="384.11" width="62.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2Ags87GqK9fI2d4-3I6T-94" value="核算统计" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="2Ags87GqK9fI2d4-3I6T-94" value="核算费控" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="151.39999999999998" y="384.11" width="62.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2Ags87GqK9fI2d4-3I6T-95" value="合同管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="2Ags87GqK9fI2d4-3I6T-95" value="采购管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="149.80999999999997" y="486" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2Ags87GqK9fI2d4-3I6T-99" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;技术服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
@@ -2759,7 +2759,7 @@
         <mxCell id="2Ags87GqK9fI2d4-3I6T-127" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;企查查服务&lt;/span&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/On_Premises_Data_Gateways.svg;rounded=0;shadow=1;dashed=1;dashPattern=12 12;labelBackgroundColor=none;strokeColor=#d6e8d5;fontColor=#000000;fillColor=none;gradientColor=none;imageBackground=none;" parent="1" vertex="1">
           <mxGeometry x="-568" y="892" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pw3HJ8o5_nnNCsGpoM67-3" value="预算管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="Pw3HJ8o5_nnNCsGpoM67-3" value="资产管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="252.41000000000003" y="486" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pw3HJ8o5_nnNCsGpoM67-4" value="数字电话" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
