@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T03:48:25.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QqerF6oA_4AFPcF8yKmD" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-03-08T03:50:16.352Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KpzY2oJwU23Ddkb8Mm_A" version="20.8.20" type="github" pages="14">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2946,7 +2946,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ji5her9VFw-8ePECz-JL" name="随行办公现状和未来">
-    <mxGraphModel dx="2653" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3127,7 +3127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HSCzYqq1wAatIH2SRURA-15" value="待迁移" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="HSCzYqq1wAatIH2SRURA-14">
+        <mxCell id="HSCzYqq1wAatIH2SRURA-15" value="临时通道，待关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="HSCzYqq1wAatIH2SRURA-14">
           <mxGeometry x="-0.287" y="2" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -3147,8 +3147,8 @@
         <mxCell id="9Fxggz9EmV5CvVBr6Ttq-66" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用服务器2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="9Fxggz9EmV5CvVBr6Ttq-63">
           <mxGeometry x="163.33333333333334" y="10" width="93.33333333333333" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9Fxggz9EmV5CvVBr6Ttq-67" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;其他系统H5服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="9Fxggz9EmV5CvVBr6Ttq-63">
-          <mxGeometry x="72.25806451612905" y="60" width="135.48387096774195" height="30" as="geometry" />
+        <mxCell id="9Fxggz9EmV5CvVBr6Ttq-67" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;未信创系统H5服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="9Fxggz9EmV5CvVBr6Ttq-63">
+          <mxGeometry x="72.26" y="60" width="157.74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Fxggz9EmV5CvVBr6Ttq-68" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="281" y="1463" width="400" height="90" as="geometry" />
@@ -3162,7 +3162,7 @@
         <mxCell id="9Fxggz9EmV5CvVBr6Ttq-71" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用&lt;br&gt;服务器2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="9Fxggz9EmV5CvVBr6Ttq-68">
           <mxGeometry x="230.00225806451613" y="10" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9Fxggz9EmV5CvVBr6Ttq-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;其他系统应用后端服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="9Fxggz9EmV5CvVBr6Ttq-68">
+        <mxCell id="9Fxggz9EmV5CvVBr6Ttq-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;未信创系统应用后端服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="9Fxggz9EmV5CvVBr6Ttq-68">
           <mxGeometry x="69.9958064516129" y="60" width="193.54838709677423" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Fxggz9EmV5CvVBr6Ttq-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=default;shadow=0;" edge="1" parent="1">
@@ -3177,7 +3177,7 @@
             <mxPoint x="498" y="1463" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HSCzYqq1wAatIH2SRURA-13" value="待迁移" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="9Fxggz9EmV5CvVBr6Ttq-75">
+        <mxCell id="HSCzYqq1wAatIH2SRURA-13" value="待关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="9Fxggz9EmV5CvVBr6Ttq-75">
           <mxGeometry x="-0.287" y="2" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -3191,7 +3191,7 @@
             <mxPoint x="421" y="1340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HSCzYqq1wAatIH2SRURA-18" value="待其他系统信创" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="9Fxggz9EmV5CvVBr6Ttq-77">
+        <mxCell id="HSCzYqq1wAatIH2SRURA-18" value="待其他系统信创后关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="9Fxggz9EmV5CvVBr6Ttq-77">
           <mxGeometry x="0.0826" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3331,7 +3331,7 @@
             <mxPoint x="390" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HSCzYqq1wAatIH2SRURA-17" value="待其他系统信创" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="xdjmHGT-31lBrJDJpv9V-2">
+        <mxCell id="HSCzYqq1wAatIH2SRURA-17" value="待其他系统信创后关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="xdjmHGT-31lBrJDJpv9V-2">
           <mxGeometry x="0.2321" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3369,7 +3369,7 @@
             <mxPoint x="640" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HSCzYqq1wAatIH2SRURA-19" value="待其他系统信创" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="HSCzYqq1wAatIH2SRURA-8">
+        <mxCell id="HSCzYqq1wAatIH2SRURA-19" value="待其他系统信创后关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="HSCzYqq1wAatIH2SRURA-8">
           <mxGeometry x="-0.105" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
