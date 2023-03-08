@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T03:44:48.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="wwqujRHLHXqTFKTLn-RL" version="20.8.20" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-03-08T03:48:25.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QqerF6oA_4AFPcF8yKmD" version="20.8.20" type="github" pages="14">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3288,8 +3288,8 @@
         </mxCell>
         <mxCell id="9Fxggz9EmV5CvVBr6Ttq-108" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;shadow=0;strokeColor=default;fillColor=#fff2cc;width=10;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1070" y="1300" as="sourcePoint" />
-            <mxPoint x="1750" y="1460" as="targetPoint" />
+            <mxPoint x="1028" y="1300" as="sourcePoint" />
+            <mxPoint x="1588" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Fxggz9EmV5CvVBr6Ttq-109" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#d2691d&quot;&gt;行业云&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#fad7ac;strokeColor=none;" vertex="1" parent="1">
@@ -3374,11 +3374,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rLfvrnZMIJNE6IQOpsfd-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=default;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1720" y="1403" as="sourcePoint" />
+            <mxPoint x="1720" y="1463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLfvrnZMIJNE6IQOpsfd-2" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;shadow=0;strokeColor=default;fillColor=#fff2cc;width=10;exitX=0.674;exitY=1.055;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.671;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1620.9680000000003" y="1139.05" as="sourcePoint" />
+            <mxPoint x="1621.0529999999999" y="1453.06" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="j2BY9Npncf0s-KCU6P0D" name="随行办公未来">
-    <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
