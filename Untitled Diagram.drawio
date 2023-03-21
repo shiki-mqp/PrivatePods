@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T03:39:54.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KpxcgS9RWPb71DI0fFbX" version="20.8.20" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-03-21T03:41:04.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8AprmxAMRcF-goRaDBXL" version="20.8.20" type="github" pages="15">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3568,7 +3568,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r13KFpjLEzAs12tgpKdD" name="UUMS现状">
-    <mxGraphModel dx="2021" dy="-520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2320" dy="-358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3632,9 +3632,9 @@
             <mxPoint x="80" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-174" value="主动推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="26s2_UY1yd_KPKFRJ_NR-173">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-174" value="获取HR&lt;br&gt;人员数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="26s2_UY1yd_KPKFRJ_NR-173">
           <mxGeometry x="-0.3484" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-24" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="26s2_UY1yd_KPKFRJ_NR-175" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;" edge="1" parent="1">
@@ -3643,9 +3643,9 @@
             <mxPoint x="220" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-176" value="推送账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="26s2_UY1yd_KPKFRJ_NR-175">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-176" value="写入ERP&lt;br&gt;账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="26s2_UY1yd_KPKFRJ_NR-175">
           <mxGeometry x="-0.3484" relative="1" as="geometry">
-            <mxPoint x="17" as="offset" />
+            <mxPoint x="24" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
