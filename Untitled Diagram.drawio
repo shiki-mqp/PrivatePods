@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T03:47:53.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ivrOrBwoY7kPVlaWWSwk" version="20.8.20" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-03-27T08:30:49.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="5_3JSgRTwC6yxUHlFqGn" version="21.0.8" type="github" pages="15">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
-    <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3568,103 +3568,92 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r13KFpjLEzAs12tgpKdD" name="UUMS现状">
-    <mxGraphModel dx="1706" dy="-323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="-454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-158" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="408.08000000000004" y="1530" width="53.92" height="283" as="geometry" />
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-158" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="405.71000000000004" y="1540" width="53.92" height="283" as="geometry" />
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-113" value="存储网关" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="416.75000000000006" y="1646.5" width="50" height="50" as="geometry" />
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-113" value="存储网关" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="414.38000000000005" y="1656.5" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-159" value="证监114&lt;br&gt;（工单自维护）" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="391.75" y="1798" width="100" height="80" as="geometry" />
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-159" value="证监114&lt;br&gt;（工单自维护）" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="385.03999999999996" y="1830" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-160" value="HR系统" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="391.75" y="1250" width="100" height="80" as="geometry" />
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-160" value="HR系统" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="385.04" y="1250" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-163" value="ERP&lt;br&gt;（工单自维护）" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="106.54000000000005" y="1460" width="100" height="80" as="geometry" />
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-163" value="ERP&lt;br&gt;（工单自维护）" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="76.54000000000005" y="1460" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-164" value="随行办公&lt;br&gt;（工单自维护）" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-164" value="随行办公&lt;br&gt;（工单自维护）" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="1460" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-165" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;entryX=-0.067;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-165" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;entryX=-0.067;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="441.03" y="1797" as="sourcePoint" />
-            <mxPoint x="441.15400000000045" y="1729.0726399999999" as="targetPoint" />
+            <mxPoint x="434.53999999999996" y="1817.93" as="sourcePoint" />
+            <mxPoint x="434.66400000000044" y="1750.00264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-168" value="写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="26s2_UY1yd_KPKFRJ_NR-165">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-168" value="定时写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;rotation=0;" parent="26s2_UY1yd_KPKFRJ_NR-165" vertex="1" connectable="0">
           <mxGeometry x="-0.3484" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-166" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;entryX=-0.067;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-166" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;entryX=-0.067;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="441.32" y="1632" as="sourcePoint" />
-            <mxPoint x="441.44400000000047" y="1572" as="targetPoint" />
+            <mxPoint x="435.32" y="1638" as="sourcePoint" />
+            <mxPoint x="435.44400000000047" y="1578" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-169" value="读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="26s2_UY1yd_KPKFRJ_NR-166">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-169" value="定时读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" parent="26s2_UY1yd_KPKFRJ_NR-166" vertex="1" connectable="0">
           <mxGeometry x="-0.2518" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-170" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;" edge="1" parent="1">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-170" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="441.48999999999995" y="1380" as="sourcePoint" />
-            <mxPoint x="441.94" y="1440" as="targetPoint" />
+            <mxPoint x="433.48999999999995" y="1380" as="sourcePoint" />
+            <mxPoint x="433.94" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-171" value="主动推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="26s2_UY1yd_KPKFRJ_NR-170">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-171" value="定时推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" parent="26s2_UY1yd_KPKFRJ_NR-170" vertex="1" connectable="0">
           <mxGeometry x="-0.3484" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-172" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;UUMS&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;html=1;strokeColor=#006EAF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1ba1e2;shape=mxgraph.mscae.intune.intune_connector;aspect=fixed;fontSize=12;fontColor=#000000;labelBackgroundColor=none;strokeWidth=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-172" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;UUMS&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;html=1;strokeColor=#006EAF;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1ba1e2;shape=mxgraph.mscae.intune.intune_connector;aspect=fixed;fontSize=12;fontColor=#000000;labelBackgroundColor=none;strokeWidth=1;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="386.1600000000001" y="1460" width="111.18" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-173" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;" edge="1" parent="1">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-173" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="1490" as="sourcePoint" />
-            <mxPoint x="230" y="1490" as="targetPoint" />
+            <mxPoint x="350" y="1510" as="sourcePoint" />
+            <mxPoint x="210" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-174" value="获取HR&lt;br&gt;人员数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="26s2_UY1yd_KPKFRJ_NR-173">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-174" value="转发人员数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" parent="26s2_UY1yd_KPKFRJ_NR-173" vertex="1" connectable="0">
           <mxGeometry x="-0.3484" relative="1" as="geometry">
             <mxPoint x="-24" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-175" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="1530" as="sourcePoint" />
-            <mxPoint x="370" y="1530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-176" value="写入ERP&lt;br&gt;账号信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="26s2_UY1yd_KPKFRJ_NR-175">
-          <mxGeometry x="-0.3484" relative="1" as="geometry">
-            <mxPoint x="24" y="30" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-177" value="EOA&lt;br&gt;（工单自维护）" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-177" value="EOA&lt;br&gt;（工单自维护）" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="1300" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-178" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;" edge="1" parent="1">
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-178" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=Helvetica;fontSize=16;fontColor=#000000;fillColor=#FFF2CC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="1450" as="sourcePoint" />
-            <mxPoint x="100" y="1510" as="targetPoint" />
+            <mxPoint x="120" y="1450" as="sourcePoint" />
+            <mxPoint x="70" y="1510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="1420" />
-              <mxPoint x="50" y="1420" />
-              <mxPoint x="50" y="1470" />
-              <mxPoint x="50" y="1510" />
+              <mxPoint x="120" y="1420" />
+              <mxPoint x="20" y="1420" />
+              <mxPoint x="20" y="1470" />
+              <mxPoint x="20" y="1510" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="26s2_UY1yd_KPKFRJ_NR-179" value="组织架构&lt;br&gt;变动审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="99.99666666666675" y="1450" as="geometry" />
+        <mxCell id="26s2_UY1yd_KPKFRJ_NR-179" value="组织架构&lt;br&gt;变动审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="69.99666666666675" y="1450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
