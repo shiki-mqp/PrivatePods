@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T03:20:07.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="P80Pxhs-y4MxPW5e0IKe" version="21.1.5" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-04-18T03:20:33.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qcku9NAMxee9iKEO4sV2" version="21.1.5" type="github" pages="18">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3422,7 +3422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j2BY9Npncf0s-KCU6P0D" name="随行办公应用迁移">
-    <mxGraphModel dx="1493" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2171" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3826,7 +3826,7 @@
         <mxCell id="5goexL463Dx8Rg2BWUda-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;正反向代理服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="5goexL463Dx8Rg2BWUda-28">
           <mxGeometry x="352.335" y="70" width="424.50000000000006" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5goexL463Dx8Rg2BWUda-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;中台信创企业网关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="5goexL463Dx8Rg2BWUda-1">
+        <mxCell id="5goexL463Dx8Rg2BWUda-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;中台信创企业网关&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#A680B8;strokeColor=none;" vertex="1" parent="5goexL463Dx8Rg2BWUda-1">
           <mxGeometry x="1660" y="640" width="230" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5goexL463Dx8Rg2BWUda-34" value="" style="group" vertex="1" connectable="0" parent="5goexL463Dx8Rg2BWUda-1">
