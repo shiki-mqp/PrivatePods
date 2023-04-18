@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T03:21:44.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="INrlZfVZw486CjYHo74O" version="21.1.5" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-04-18T03:35:44.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="18Ce0_UpDjKQkQyTbutg" version="21.1.5" type="github" pages="18">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2545,7 +2545,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NgmofFM7CvI6Khc_vRx0" name="一网统管架构图">
-    <mxGraphModel dx="2021" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3121,7 +3121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ji5her9VFw-8ePECz-JL" name="随行办公现状">
-    <mxGraphModel dx="1493" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3255,7 +3255,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="随行办公底座迁移" id="5YhNAiMsbSEgN96a_CyA">
-    <mxGraphModel dx="2171" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2171" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vMRdb0QennroHhxwErS3-0" />
         <mxCell id="vMRdb0QennroHhxwErS3-1" parent="vMRdb0QennroHhxwErS3-0" />
@@ -3368,7 +3368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jh601QSc_ydYGpUTjOvQ-0" value="" style="group" vertex="1" connectable="0" parent="vMRdb0QennroHhxwErS3-1">
-          <mxGeometry x="330" y="500" width="450" height="150" as="geometry" />
+          <mxGeometry x="330" y="550" width="450" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Jh601QSc_ydYGpUTjOvQ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;" vertex="1" parent="Jh601QSc_ydYGpUTjOvQ-0">
           <mxGeometry width="450" height="150" as="geometry" />
@@ -3422,7 +3422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j2BY9Npncf0s-KCU6P0D" name="随行办公应用迁移">
-    <mxGraphModel dx="2171" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2171" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3750,7 +3750,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="随行办公应用未来" id="3e4VhJU_lHKVIn0OQScs">
-    <mxGraphModel dx="1990" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2171" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5goexL463Dx8Rg2BWUda-0" />
         <mxCell id="5goexL463Dx8Rg2BWUda-1" parent="5goexL463Dx8Rg2BWUda-0" />
