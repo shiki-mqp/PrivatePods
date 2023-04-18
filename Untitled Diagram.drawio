@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T02:59:17.787Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="p_B1TdoJ7VbNyUEs0WEj" version="21.1.5" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-04-18T03:00:27.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xKLlgjN_exwJTHf6P0F7" version="21.1.5" type="github" pages="17">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3422,7 +3422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j2BY9Npncf0s-KCU6P0D" name="随行办公应用迁移">
-    <mxGraphModel dx="1194" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3632,17 +3632,6 @@
         <mxCell id="1I_lWIQa40x_SjQqO7OL-69" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;逻辑/文件服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" parent="1I_lWIQa40x_SjQqO7OL-64" vertex="1">
           <mxGeometry x="62.02" y="60" width="145.97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1I_lWIQa40x_SjQqO7OL-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#000000;shadow=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="420" as="sourcePoint" />
-            <mxPoint x="400" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1I_lWIQa40x_SjQqO7OL-71" value="待其他系统信创后关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" parent="1I_lWIQa40x_SjQqO7OL-70" vertex="1" connectable="0">
-          <mxGeometry x="0.2321" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1I_lWIQa40x_SjQqO7OL-72" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;shadow=0;strokeColor=default;fillColor=#f0a30a;width=8;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1395" y="637" as="sourcePoint" />
@@ -3745,6 +3734,17 @@
         </mxCell>
         <mxCell id="1I_lWIQa40x_SjQqO7OL-77" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;反向代理服务器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" parent="1I_lWIQa40x_SjQqO7OL-73" vertex="1">
           <mxGeometry x="72.25806451612905" y="60" width="135.48387096774195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1I_lWIQa40x_SjQqO7OL-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#000000;shadow=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1I_lWIQa40x_SjQqO7OL-71" value="待其他系统信创后关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" parent="1I_lWIQa40x_SjQqO7OL-70" vertex="1" connectable="0">
+          <mxGeometry x="0.2321" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
