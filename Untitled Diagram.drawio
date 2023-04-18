@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T03:35:44.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="18Ce0_UpDjKQkQyTbutg" version="21.1.5" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-04-18T04:02:28.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kxUu7TNRXt72mMBDd4xC" version="21.1.5" type="github" pages="18">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3255,7 +3255,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="随行办公底座迁移" id="5YhNAiMsbSEgN96a_CyA">
-    <mxGraphModel dx="2171" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vMRdb0QennroHhxwErS3-0" />
         <mxCell id="vMRdb0QennroHhxwErS3-1" parent="vMRdb0QennroHhxwErS3-0" />
@@ -3422,7 +3422,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j2BY9Npncf0s-KCU6P0D" name="随行办公应用迁移">
-    <mxGraphModel dx="2171" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2388" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3746,11 +3746,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aTVTXHWxRNMYZYym4o08-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#000000;shadow=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1I_lWIQa40x_SjQqO7OL-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1919.41" y="439.5" as="sourcePoint" />
+            <mxPoint x="1300" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="随行办公应用未来" id="3e4VhJU_lHKVIn0OQScs">
-    <mxGraphModel dx="2171" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2653" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5goexL463Dx8Rg2BWUda-0" />
         <mxCell id="5goexL463Dx8Rg2BWUda-1" parent="5goexL463Dx8Rg2BWUda-0" />
@@ -3958,9 +3964,9 @@
         <mxCell id="5goexL463Dx8Rg2BWUda-75" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;应用&lt;br&gt;服务器1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="5goexL463Dx8Rg2BWUda-1">
           <mxGeometry x="470.00387096774193" y="760" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5goexL463Dx8Rg2BWUda-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#000000;shadow=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="5goexL463Dx8Rg2BWUda-1" source="5goexL463Dx8Rg2BWUda-2" target="5goexL463Dx8Rg2BWUda-17">
+        <mxCell id="5goexL463Dx8Rg2BWUda-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#000000;shadow=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="5goexL463Dx8Rg2BWUda-1" target="5goexL463Dx8Rg2BWUda-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="431" y="430" as="sourcePoint" />
+            <mxPoint x="1140" y="450" as="sourcePoint" />
             <mxPoint x="431" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -3993,8 +3999,14 @@
         </mxCell>
         <mxCell id="5goexL463Dx8Rg2BWUda-86" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#000000;shadow=0;entryX=1.01;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="5goexL463Dx8Rg2BWUda-1" target="5goexL463Dx8Rg2BWUda-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="420" as="sourcePoint" />
+            <mxPoint x="980" y="450" as="sourcePoint" />
             <mxPoint x="400" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_C7stM60suu99eRNwFB-0" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#f0a30a;strokeColor=#000000;shadow=0;exitX=0.897;exitY=-0.013;exitDx=0;exitDy=0;entryX=0.34;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="5goexL463Dx8Rg2BWUda-1" source="5goexL463Dx8Rg2BWUda-82" target="5goexL463Dx8Rg2BWUda-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="497" as="sourcePoint" />
+            <mxPoint x="1300" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
