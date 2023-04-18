@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T02:49:20.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="tc0Ors0VTYFkM-D_ndfT" version="21.1.5" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-04-18T02:50:04.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="eWSa-DOUkm4mZeN6kj8J" version="21.1.5" type="github" pages="17">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1194" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3255,7 +3255,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="随行办公底座迁移" id="5YhNAiMsbSEgN96a_CyA">
-    <mxGraphModel dx="1837" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2171" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vMRdb0QennroHhxwErS3-0" />
         <mxCell id="vMRdb0QennroHhxwErS3-1" parent="vMRdb0QennroHhxwErS3-0" />
@@ -3321,12 +3321,6 @@
         </mxCell>
         <mxCell id="vMRdb0QennroHhxwErS3-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#d2691d&quot;&gt;行业云&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#fad7ac;strokeColor=none;" vertex="1" parent="vMRdb0QennroHhxwErS3-1">
           <mxGeometry x="856" y="325" width="20" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="vMRdb0QennroHhxwErS3-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=none;shadow=0;" edge="1" parent="vMRdb0QennroHhxwErS3-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1254" y="190" as="sourcePoint" />
-            <mxPoint x="1254" y="296" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vMRdb0QennroHhxwErS3-63" value="" style="group" vertex="1" connectable="0" parent="vMRdb0QennroHhxwErS3-1">
           <mxGeometry x="1255" y="640" width="270" height="90" as="geometry" />
@@ -3417,6 +3411,12 @@
         </mxCell>
         <mxCell id="vMRdb0QennroHhxwErS3-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;正反向代理服务器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" vertex="1" parent="vMRdb0QennroHhxwErS3-1">
           <mxGeometry x="429.995" y="380" width="247.50000000000003" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh601QSc_ydYGpUTjOvQ-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=1;shadow=0;strokeColor=default;fillColor=#fff2cc;width=8;exitX=0.557;exitY=-0.023;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vMRdb0QennroHhxwErS3-1" source="vMRdb0QennroHhxwErS3-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1250.68" y="250" as="sourcePoint" />
+            <mxPoint x="1250.68" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
