@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T09:55:30.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Q56WV0ZJOKWEWM0a_oqc" version="21.1.8" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-04-26T10:07:52.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="15jZ04AN-86Gxi9m1UTk" version="21.1.8" type="github" pages="19">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1990" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4326,9 +4326,42 @@
             <mxPoint x="850" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uXp8bbWXCOigmgA6IEA3-39" value="返回激活信息验证结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uXp8bbWXCOigmgA6IEA3-38">
+        <mxCell id="uXp8bbWXCOigmgA6IEA3-39" value="请求业务系统激活信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uXp8bbWXCOigmgA6IEA3-38">
           <mxGeometry x="0.1694" y="-2" relative="1" as="geometry">
             <mxPoint x="19" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uXp8bbWXCOigmgA6IEA3-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="670" as="sourcePoint" />
+            <mxPoint x="1020" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uXp8bbWXCOigmgA6IEA3-41" value="返回业务系统激活信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uXp8bbWXCOigmgA6IEA3-40">
+          <mxGeometry x="0.1694" y="-2" relative="1" as="geometry">
+            <mxPoint x="-9" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uXp8bbWXCOigmgA6IEA3-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="700" as="sourcePoint" />
+            <mxPoint x="850" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uXp8bbWXCOigmgA6IEA3-43" value="修改业务系统激活信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uXp8bbWXCOigmgA6IEA3-42">
+          <mxGeometry x="0.1694" y="-2" relative="1" as="geometry">
+            <mxPoint x="19" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uXp8bbWXCOigmgA6IEA3-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="730" as="sourcePoint" />
+            <mxPoint x="1020" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uXp8bbWXCOigmgA6IEA3-45" value="返回修改结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uXp8bbWXCOigmgA6IEA3-44">
+          <mxGeometry x="0.1694" y="-2" relative="1" as="geometry">
+            <mxPoint x="-9" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
