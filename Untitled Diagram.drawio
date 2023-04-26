@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T07:16:38.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="0nDCfAU0-6DWpUwRh8B4" version="21.1.8" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-04-26T09:38:39.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="K1S4yt6IL_i2hmYqGXJ5" version="21.1.8" type="github" pages="19">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1990" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4142,6 +4142,14 @@
         <mxCell id="Zue3hPiZkRlrrTUfb7BR-9" value="自动生成&lt;br&gt;一网统管&lt;br&gt;账号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="DIWF2nmO7Dj1R61Fb3Ir-1">
           <mxGeometry x="519.9966666666668" y="1550" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1CqbgzeNAr5QlI2fxDtM" name="E证通登录激活">
+    <mxGraphModel dx="1194" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
