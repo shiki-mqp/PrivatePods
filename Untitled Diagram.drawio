@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T10:18:40.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="A-zDG6UikiaQHxxdd-WI" version="21.1.8" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-04-26T10:20:14.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4DaHdjEdkyAY-RQaMzVD" version="21.1.8" type="github" pages="19">
   <diagram id="uV6_BV6XKQVdwxZXVooB" name="Page-1">
     <mxGraphModel dx="1990" dy="1082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4146,7 +4146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1CqbgzeNAr5QlI2fxDtM" name="E证通登录激活">
-    <mxGraphModel dx="1137" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4407,7 +4407,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uXp8bbWXCOigmgA6IEA3-55" value="审核激活请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uXp8bbWXCOigmgA6IEA3-54">
+        <mxCell id="uXp8bbWXCOigmgA6IEA3-55" value="审核激活信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uXp8bbWXCOigmgA6IEA3-54">
           <mxGeometry x="0.1694" y="-2" relative="1" as="geometry">
             <mxPoint x="2" y="-7" as="offset" />
           </mxGeometry>
