@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T03:12:54.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QbyT0Sm2RNJ6qh7u04i6" version="23.1.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:05:46.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DomCzg11DRmYYlA6zx8a" version="23.1.1" type="github" pages="18">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1785,7 +1785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NgmofFM7CvI6Khc_vRx0" name="一网统管架构图">
-    <mxGraphModel dx="2998" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2533" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2887,7 +2887,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图New" id="ZijmpdVA9WeRQn27bZPS">
-    <mxGraphModel dx="2084" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1711" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="suhlykp2FSEEtw8FvRBQ-0" />
         <mxCell id="suhlykp2FSEEtw8FvRBQ-1" parent="suhlykp2FSEEtw8FvRBQ-0" />
@@ -3404,7 +3404,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eWylEFRP21im-1RxLTk5-10" value="..." style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" parent="suhlykp2FSEEtw8FvRBQ-1" vertex="1">
+        <mxCell id="eWylEFRP21im-1RxLTk5-10" value="组织用户" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" parent="suhlykp2FSEEtw8FvRBQ-1" vertex="1">
           <mxGeometry x="780.48" y="146" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="eWylEFRP21im-1RxLTk5-11" value="" style="strokeColor=#000000;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelBackgroundColor=none;fontSize=16;fillColor=#FAD7AC;fontColor=#ffffff;" parent="suhlykp2FSEEtw8FvRBQ-1" vertex="1">
