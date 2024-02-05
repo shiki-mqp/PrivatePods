@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T02:53:08.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6F3YotcgIb8Q2icdg-tP" version="23.1.1" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:53:28.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BAgwrEwylp4Xq6vXfwl1" version="23.1.1" type="github" pages="19">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3808,7 +3808,7 @@
           <mxGeometry x="341.21000000000004" y="326.24" width="132.58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-107" value="知识中心" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
-          <mxGeometry x="295.29" y="152.11999999999998" width="59.21" height="45" as="geometry" />
+          <mxGeometry x="294.29" y="152.11999999999998" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-108" value="数据中心" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
           <mxGeometry x="393.28999999999996" y="152.12" width="59.21" height="45" as="geometry" />
