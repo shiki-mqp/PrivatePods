@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T02:08:38.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JPyG1kYsdxQWXG3htPrs" version="23.1.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:10:21.187Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mxVXPSsLO-iuklD-4uR2" version="23.1.1" type="github" pages="18">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2887,7 +2887,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图New" id="ZijmpdVA9WeRQn27bZPS">
-    <mxGraphModel dx="1711" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2533" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="suhlykp2FSEEtw8FvRBQ-0" />
         <mxCell id="suhlykp2FSEEtw8FvRBQ-1" parent="suhlykp2FSEEtw8FvRBQ-0" />
