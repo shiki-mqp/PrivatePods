@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T02:40:58.475Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OPc3lxrmbJNiA-MfXeHN" version="23.1.1" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:41:26.610Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DR8go75j_5b0QA7RIYiU" version="23.1.1" type="github" pages="19">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3736,7 +3736,7 @@
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-86" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;企查查服务&lt;/span&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/On_Premises_Data_Gateways.svg;rounded=0;shadow=1;dashed=1;dashPattern=12 12;labelBackgroundColor=none;strokeColor=#d6e8d5;fontColor=#000000;fillColor=none;gradientColor=none;imageBackground=none;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
           <mxGeometry x="-568" y="892" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k2jlIw0dSmJJ-P8rNszj-87" value="资产管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
+        <mxCell id="k2jlIw0dSmJJ-P8rNszj-87" value="项目立项" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#ffcc99;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
           <mxGeometry x="424.72" y="508.39" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-88" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;shadow=1;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
