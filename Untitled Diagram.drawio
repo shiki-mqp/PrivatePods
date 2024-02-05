@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T02:50:57.907Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ua6XMiWrQMXeXkjTckgf" version="23.1.1" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:53:08.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6F3YotcgIb8Q2icdg-tP" version="23.1.1" type="github" pages="19">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3808,22 +3808,22 @@
           <mxGeometry x="341.21000000000004" y="326.24" width="132.58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-107" value="知识中心" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
-          <mxGeometry x="367.1" y="154.42" width="59.21" height="45" as="geometry" />
+          <mxGeometry x="295.29" y="152.11999999999998" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-108" value="数据中心" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
-          <mxGeometry x="500.90999999999997" y="153.5" width="59.21" height="45" as="geometry" />
+          <mxGeometry x="393.28999999999996" y="152.12" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-109" value="移动OA" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
-          <mxGeometry x="639.52" y="154.42" width="59.21" height="45" as="geometry" />
+          <mxGeometry x="487.21999999999997" y="152.11999999999998" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-110" value="信息中心" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
           <mxGeometry x="-29.959999999999987" y="155" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-111" value="应用中心" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
-          <mxGeometry x="230.00000000000003" y="153.5" width="59.21" height="45" as="geometry" />
+          <mxGeometry x="190.00000000000003" y="152.12" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-112" value="工作中心" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
-          <mxGeometry x="100.31000000000003" y="153.5" width="59.21" height="45" as="geometry" />
+          <mxGeometry x="80.79000000000003" y="154.42" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
           <mxGeometry relative="1" as="geometry">
@@ -3929,7 +3929,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-139" value="组织用户" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
-          <mxGeometry x="780.48" y="155" width="59.21" height="45" as="geometry" />
+          <mxGeometry x="780.48" y="151.5" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-140" value="" style="strokeColor=#000000;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelBackgroundColor=none;fontSize=16;fillColor=#FAD7AC;fontColor=#ffffff;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
           <mxGeometry x="1353.17" y="214" width="60" height="50" as="geometry" />
@@ -3974,6 +3974,12 @@
           <mxGeometry x="989.9969230769228" y="617.394615384615" as="geometry">
             <mxPoint x="-28" y="-261" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wMumU8braIhkgAInjNDD-0" value="移动财务" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
+          <mxGeometry x="580.3100000000001" y="152.25" width="59.21" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="wMumU8braIhkgAInjNDD-1" value="移动人力" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
+          <mxGeometry x="680.0000000000001" y="152" width="59.21" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
