@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T02:56:15.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s2bxTi2I_wierNHd9jxb" version="23.1.1" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-02-05T03:00:16.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6ZanDYIcAXZ-uZkngIis" version="23.1.1" type="github" pages="19">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3437,7 +3437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图20240205" id="QwUqUnmMVKId5PfM69P4">
-    <mxGraphModel dx="3217" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1782" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-0" />
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-1" parent="k2jlIw0dSmJJ-P8rNszj-0" />
@@ -3928,7 +3928,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k2jlIw0dSmJJ-P8rNszj-139" value="移动人力" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
+        <mxCell id="k2jlIw0dSmJJ-P8rNszj-139" value="移动人力" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1BA1E2;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
           <mxGeometry x="780.48" y="151.5" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="k2jlIw0dSmJJ-P8rNszj-140" value="" style="strokeColor=#000000;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelBackgroundColor=none;fontSize=16;fillColor=#FAD7AC;fontColor=#ffffff;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
@@ -3975,10 +3975,10 @@
             <mxPoint x="-28" y="-261" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wMumU8braIhkgAInjNDD-0" value="移动OA" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
+        <mxCell id="wMumU8braIhkgAInjNDD-0" value="移动OA" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1BA1E2;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
           <mxGeometry x="580.3100000000001" y="152.25" width="59.21" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="wMumU8braIhkgAInjNDD-1" value="移动财务" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
+        <mxCell id="wMumU8braIhkgAInjNDD-1" value="移动财务" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1BA1E2;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;" vertex="1" parent="k2jlIw0dSmJJ-P8rNszj-1">
           <mxGeometry x="680.0000000000001" y="152" width="59.21" height="45" as="geometry" />
         </mxCell>
       </root>
