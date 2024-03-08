@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T07:55:17.205Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="rhH1PHj5xrU4T0c_zG4U" version="24.0.2" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2024-03-08T07:55:34.378Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DHXjSmIFR7FqPIJ1oU0f" version="24.0.2" type="github" pages="21">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4599,7 +4599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图20240305" id="vrq3CehyCDE57bQczdU9">
-    <mxGraphModel dx="4238" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-0" />
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-1" parent="5DQPf7DMDd3WoIMEbBlo-0" />
@@ -4877,10 +4877,10 @@
           <mxGeometry x="-750" y="712" width="140" height="302" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;消息推送服务&lt;/font&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/On_Premises_Data_Gateways.svg;rounded=0;shadow=1;dashed=1;dashPattern=12 12;labelBackgroundColor=none;strokeColor=#d6e8d5;fontColor=#000000;fillColor=none;gradientColor=none;imageBackground=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
-          <mxGeometry x="-705" y="734.39" width="60" height="60" as="geometry" />
+          <mxGeometry x="-705" y="729.39" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-81" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;发票服务&lt;/font&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/On_Premises_Data_Gateways.svg;rounded=0;shadow=1;dashed=1;dashPattern=12 12;labelBackgroundColor=none;strokeColor=#d6e8d5;fontColor=#000000;fillColor=none;gradientColor=none;imageBackground=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
-          <mxGeometry x="-705" y="829" width="60" height="60" as="geometry" />
+          <mxGeometry x="-705" y="824" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;exitX=-0.001;exitY=0.347;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;exitPerimeter=0;entryX=0.333;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="5DQPf7DMDd3WoIMEbBlo-1" target="5DQPf7DMDd3WoIMEbBlo-79" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4892,7 +4892,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-83" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;优行商旅&lt;/span&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/On_Premises_Data_Gateways.svg;rounded=0;shadow=1;dashed=1;dashPattern=12 12;labelBackgroundColor=none;strokeColor=#d6e8d5;fontColor=#000000;fillColor=none;gradientColor=none;imageBackground=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
-          <mxGeometry x="-705" y="926.9999999999999" width="60" height="60" as="geometry" />
+          <mxGeometry x="-705" y="920.9999999999999" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-87" value="项目管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="424.72" y="563.39" width="62.5" height="50" as="geometry" />
