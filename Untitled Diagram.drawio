@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T05:35:37.153Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="q_nl-dg2ESBkKYh17Nzr" version="24.0.2" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2024-03-11T05:35:59.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aT-3lHTn27LLPL89T9NE" version="24.0.2" type="github" pages="22">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5179,7 +5179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="外包管理系统架构图" id="JcaSd5U6EkqKtCtbdpKc">
-    <mxGraphModel dx="1865" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2817" dy="2234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-0" />
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-1" parent="8OkrL7GKQXCfvJjmYJE4-0" />
@@ -5247,10 +5247,10 @@
           <mxGeometry x="42.350155876664026" y="85" width="254.11764705882356" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-47" value="Nginx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.azure_load_balancer;dashed=1;fontSize=16;aspect=fixed;fontColor=#000000;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="8OkrL7GKQXCfvJjmYJE4-44">
-          <mxGeometry x="19.058823529411764" y="15" width="60" height="42" as="geometry" />
+          <mxGeometry x="42.34882352941176" y="15" width="60" height="42" as="geometry" />
         </mxCell>
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-48" value="Nginx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.azure_load_balancer;dashed=1;fontSize=16;aspect=fixed;fontColor=#000000;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="8OkrL7GKQXCfvJjmYJE4-44">
-          <mxGeometry x="205.41176470588235" y="15" width="60" height="42" as="geometry" />
+          <mxGeometry x="250.00176470588235" y="15" width="60" height="42" as="geometry" />
         </mxCell>
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-76" value="随行办公PC端&lt;div&gt;所内及外包用户&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.computer;pointerEvents=1;fontSize=16;aspect=fixed;fontColor=#000000;shadow=1;dashed=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="8OkrL7GKQXCfvJjmYJE4-1">
           <mxGeometry x="177.15" y="-220" width="66.67" height="60" as="geometry" />
