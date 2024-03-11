@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T05:17:52.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nKz-BZwTnZwOcw-C9qiY" version="24.0.2" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2024-03-11T05:20:46.822Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UWaxJTlRkeY1PV5EGPVx" version="24.0.2" type="github" pages="22">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1224,7 +1224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mlsJhRyfN2inD8v1uUVv" name="移动驾驶舱架构图">
-    <mxGraphModel dx="2388" dy="2447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1706" dy="2082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
