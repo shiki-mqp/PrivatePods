@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T06:00:35.390Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OINmNRazJjJ79GkwwzV6" version="24.0.2" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2024-03-11T06:00:52.814Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dDlOZj36JAxRIYWROYrc" version="24.0.2" type="github" pages="22">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5179,7 +5179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="外包管理系统架构图" id="JcaSd5U6EkqKtCtbdpKc">
-    <mxGraphModel dx="1964" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2664" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-0" />
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-1" parent="8OkrL7GKQXCfvJjmYJE4-0" />
@@ -5193,7 +5193,7 @@
           <mxGeometry x="-300" y="-240" width="680" height="149" as="geometry" />
         </mxCell>
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;shadow=1;" vertex="1" parent="8OkrL7GKQXCfvJjmYJE4-1">
-          <mxGeometry x="-300" y="80" width="1340" height="970" as="geometry" />
+          <mxGeometry x="-300" y="80" width="1340" height="550" as="geometry" />
         </mxCell>
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;办公内网&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="8OkrL7GKQXCfvJjmYJE4-1">
           <mxGeometry x="424.72" y="-44.99999999999993" width="20" height="70" as="geometry" />
@@ -5292,7 +5292,7 @@
           <mxGeometry x="21.99999999999999" y="101" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rRJScbwxKQ7cRse0W0Ck-70" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;" vertex="1" parent="8OkrL7GKQXCfvJjmYJE4-1">
-          <mxGeometry x="-230" y="205" width="993" height="375" as="geometry" />
+          <mxGeometry x="-230" y="230" width="993" height="350" as="geometry" />
         </mxCell>
         <mxCell id="rRJScbwxKQ7cRse0W0Ck-81" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;dashPattern=12 12;" vertex="1" parent="8OkrL7GKQXCfvJjmYJE4-1">
           <mxGeometry x="-210" y="260.00000000000006" width="953" height="263" as="geometry" />
