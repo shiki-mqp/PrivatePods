@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T10:04:49.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HHPgY4RFsAyTt117rcx_" version="24.0.5" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2024-03-13T10:05:22.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Htswb0P_5NL2_giPdsGm" version="24.0.5" type="github" pages="22">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5179,7 +5179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="外包管理系统架构图" id="JcaSd5U6EkqKtCtbdpKc">
-    <mxGraphModel dx="1964" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-0" />
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-1" parent="8OkrL7GKQXCfvJjmYJE4-0" />
@@ -5198,7 +5198,7 @@
         <mxCell id="8OkrL7GKQXCfvJjmYJE4-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;办公内网&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#eeeeee;strokeColor=none;" parent="8OkrL7GKQXCfvJjmYJE4-1" vertex="1">
           <mxGeometry x="424.72" y="-44.99999999999993" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8OkrL7GKQXCfvJjmYJE4-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;私有云&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#cce5ff;strokeColor=none;" parent="8OkrL7GKQXCfvJjmYJE4-1" vertex="1">
+        <mxCell id="8OkrL7GKQXCfvJjmYJE4-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信创私有云&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#cce5ff;strokeColor=none;" parent="8OkrL7GKQXCfvJjmYJE4-1" vertex="1">
           <mxGeometry x="-290" y="253.13" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NnOyidYPhDw9oecrBdam-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="8OkrL7GKQXCfvJjmYJE4-1" source="8OkrL7GKQXCfvJjmYJE4-12" target="8OkrL7GKQXCfvJjmYJE4-32" edge="1">
