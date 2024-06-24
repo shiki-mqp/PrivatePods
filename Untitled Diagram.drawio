@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T01:37:26.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mklzIQdkO0zd4fdq6sE9" version="24.6.2" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-06-24T01:43:23.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IrRKtYv4ZoEj0-hpvVqp" version="24.6.2" type="github" pages="25">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7832,13 +7832,13 @@
             <mxGeometry width="211" height="134" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="HUL324i7-BRHdiEcGO2B-46" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontColor=default;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-4" vertex="1">
+        <mxCell id="HUL324i7-BRHdiEcGO2B-46" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.server_generic;fontColor=#ffffff;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-4" vertex="1">
           <mxGeometry x="23.90000000000009" y="24" width="33.6" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HUL324i7-BRHdiEcGO2B-47" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="7hQTTfUZMdCuNJBSZYgR-4" vertex="1">
+        <mxCell id="HUL324i7-BRHdiEcGO2B-47" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.server_generic;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" parent="7hQTTfUZMdCuNJBSZYgR-4" vertex="1">
           <mxGeometry x="90.20000000000005" y="24" width="33.6" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HUL324i7-BRHdiEcGO2B-48" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="7hQTTfUZMdCuNJBSZYgR-4" vertex="1">
+        <mxCell id="HUL324i7-BRHdiEcGO2B-48" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.server_generic;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" parent="7hQTTfUZMdCuNJBSZYgR-4" vertex="1">
           <mxGeometry x="153.5" y="24" width="33.6" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7hQTTfUZMdCuNJBSZYgR-11" value="" style="group" parent="HUL324i7-BRHdiEcGO2B-1" vertex="1" connectable="0">
@@ -7863,10 +7863,10 @@
             <mxGeometry width="211" height="134" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7hQTTfUZMdCuNJBSZYgR-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontColor=default;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-12" vertex="1">
+        <mxCell id="7hQTTfUZMdCuNJBSZYgR-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.server_generic;fontColor=#ffffff;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-12" vertex="1">
           <mxGeometry x="56.40000000000009" y="24" width="33.6" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7hQTTfUZMdCuNJBSZYgR-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontColor=default;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-12" vertex="1">
+        <mxCell id="7hQTTfUZMdCuNJBSZYgR-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#a20025;shape=mxgraph.mscae.enterprise.server_generic;fontColor=#ffffff;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-12" vertex="1">
           <mxGeometry x="124" y="24" width="33.6" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7hQTTfUZMdCuNJBSZYgR-17" value="" style="group" parent="HUL324i7-BRHdiEcGO2B-1" vertex="1" connectable="0">
@@ -7888,10 +7888,10 @@
             <mxGeometry width="211" height="134" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7hQTTfUZMdCuNJBSZYgR-20" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontColor=default;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-18" vertex="1">
+        <mxCell id="7hQTTfUZMdCuNJBSZYgR-20" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#C73500;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fa6800;shape=mxgraph.mscae.enterprise.server_generic;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-18" vertex="1">
           <mxGeometry x="56.40000000000009" y="24" width="33.6" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7hQTTfUZMdCuNJBSZYgR-21" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic;fontColor=default;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-18" vertex="1">
+        <mxCell id="7hQTTfUZMdCuNJBSZYgR-21" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#C73500;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fa6800;shape=mxgraph.mscae.enterprise.server_generic;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" parent="7hQTTfUZMdCuNJBSZYgR-18" vertex="1">
           <mxGeometry x="124" y="24" width="33.6" height="70" as="geometry" />
         </mxCell>
       </root>
