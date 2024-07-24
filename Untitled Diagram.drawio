@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T07:16:13.484Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GyXF8i9_pYgaRo5kAbqb" version="24.6.5" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2024-07-24T07:23:06.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mfJTYTMREZ8SDmsGaqqi" version="24.6.5" type="github" pages="26">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1785,7 +1785,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="数据中心架构图" id="ZUWsiEZ0E7kD8B9TMTDM">
-    <mxGraphModel dx="1405" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Act9gf0oPUg0IqjKH26U-0" />
         <mxCell id="Act9gf0oPUg0IqjKH26U-1" parent="Act9gf0oPUg0IqjKH26U-0" />
@@ -1912,7 +1912,7 @@
           <mxGeometry x="150" y="50" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Act9gf0oPUg0IqjKH26U-38" value="" style="group" vertex="1" connectable="0" parent="Act9gf0oPUg0IqjKH26U-1">
-          <mxGeometry x="1120" y="400" width="240" height="140" as="geometry" />
+          <mxGeometry x="1130" y="407.5" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Act9gf0oPUg0IqjKH26U-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;strokeWidth=1;spacingTop=0;spacing=20;" vertex="1" parent="Act9gf0oPUg0IqjKH26U-38">
           <mxGeometry width="240" height="140" as="geometry" />
@@ -8056,7 +8056,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="内网IM-WPS V5" id="itsyk7lSpAgRxAAfocEq">
-    <mxGraphModel dx="1137" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HUL324i7-BRHdiEcGO2B-0" />
         <mxCell id="HUL324i7-BRHdiEcGO2B-1" parent="HUL324i7-BRHdiEcGO2B-0" />
