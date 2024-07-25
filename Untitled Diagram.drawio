@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-25T03:05:26.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZxnHvCyuP-ywrsWUP2dS" version="24.6.5" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2024-07-25T03:13:23.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="onUJGGwz5QAKeo-pObRi" version="24.6.5" type="github" pages="27">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1784,7 +1784,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="数据中心架构图" id="ZUWsiEZ0E7kD8B9TMTDM">
+  <diagram name="数据中心架构设计" id="ZUWsiEZ0E7kD8B9TMTDM">
     <mxGraphModel dx="1493" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Act9gf0oPUg0IqjKH26U-0" />
@@ -2151,8 +2151,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="数据中心设计图" id="KQ-NEucnxlkRgNPyHd1p">
-    <mxGraphModel dx="1194" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="数据中心模块设计" id="KQ-NEucnxlkRgNPyHd1p">
+    <mxGraphModel dx="2985" dy="2767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TmiZ0WYhRvAk4OT0lIzn-0" />
         <mxCell id="TmiZ0WYhRvAk4OT0lIzn-1" parent="TmiZ0WYhRvAk4OT0lIzn-0" />
