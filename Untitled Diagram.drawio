@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="27">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="27">
   <diagram id="38wsJ6jFF5f-aRz8F4vJ" name="集团财务系统">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6953,7 +6953,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="随行办公应用未来" id="3e4VhJU_lHKVIn0OQScs">
-    <mxGraphModel dx="367" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1561" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5goexL463Dx8Rg2BWUda-0" />
         <mxCell id="5goexL463Dx8Rg2BWUda-1" parent="5goexL463Dx8Rg2BWUda-0" />
@@ -7133,6 +7133,21 @@
             <mxPoint x="1190" y="497" as="sourcePoint" />
             <mxPoint x="1300" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CV8KKW1PGbxycbe9iz9H-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5goexL463Dx8Rg2BWUda-1">
+          <mxGeometry x="2130" y="280" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CV8KKW1PGbxycbe9iz9H-1" value="" style="strokeColor=#006EAF;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelBackgroundColor=none;fontSize=12;fillColor=#A680B8;fontColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="5goexL463Dx8Rg2BWUda-1">
+          <mxGeometry x="2160.58" y="371" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CV8KKW1PGbxycbe9iz9H-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;随行办公应用服务器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;align=left;" vertex="1" parent="5goexL463Dx8Rg2BWUda-1">
+          <mxGeometry x="2240" y="379.24" width="107.42" height="33.51" as="geometry" />
+        </mxCell>
+        <mxCell id="CV8KKW1PGbxycbe9iz9H-4" value="" style="strokeColor=#000000;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelBackgroundColor=none;fontSize=12;fillColor=#fa6800;fontColor=#000000;align=center;verticalAlign=middle;fontFamily=Helvetica;" vertex="1" parent="5goexL463Dx8Rg2BWUda-1">
+          <mxGeometry x="2160" y="304" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CV8KKW1PGbxycbe9iz9H-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;随行办公底座服务器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;align=left;" vertex="1" parent="5goexL463Dx8Rg2BWUda-1">
+          <mxGeometry x="2240" y="312.25" width="102.61" height="33.51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
