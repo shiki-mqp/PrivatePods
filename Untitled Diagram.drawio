@@ -8549,11 +8549,8 @@
         <mxCell id="jjVxY_lUsI51bCeE4rsB-1" value="公网" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="140" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-2" value="随行移动端" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.mobile;" vertex="1" parent="1">
-          <mxGeometry x="167.37" y="370" width="25.255" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-3" value="随行PC端" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.desktop;" vertex="1" parent="1">
-          <mxGeometry x="155" y="480" width="50" height="38.66" as="geometry" />
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-3" value="会员机构" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.desktop;" vertex="1" parent="1">
+          <mxGeometry x="155" y="431.34000000000003" width="50" height="38.66" as="geometry" />
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-4" value="行业云" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="350" height="270" as="geometry" />
@@ -8572,25 +8569,17 @@
         <mxCell id="jjVxY_lUsI51bCeE4rsB-8" value="行业云waf&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.waf;" vertex="1" parent="1">
           <mxGeometry x="320" y="437.35" width="50" height="24.705" as="geometry" />
         </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;" edge="1" parent="1" source="jjVxY_lUsI51bCeE4rsB-2" target="jjVxY_lUsI51bCeE4rsB-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="230" y="395" />
-              <mxPoint x="230" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;" edge="1" parent="1" source="jjVxY_lUsI51bCeE4rsB-3" target="jjVxY_lUsI51bCeE4rsB-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="499" />
-              <mxPoint x="230" y="450" />
+              <mxPoint x="220" y="450" />
+              <mxPoint x="220" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-11" value="外网域名访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jjVxY_lUsI51bCeE4rsB-10">
           <mxGeometry x="0.5377" y="2" relative="1" as="geometry">
-            <mxPoint x="-8" y="-8" as="offset" />
+            <mxPoint x="-33" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-12" value="HTTPS证书卸载" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];labelPosition=center;verticalLabelPosition=top;" vertex="1" connectable="0" parent="1">
