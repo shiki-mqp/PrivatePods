@@ -8542,7 +8542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f0RT5k5DFNKHUCX7o7K9" name="费用收付平台非信创">
-    <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8558,18 +8558,21 @@
         <mxCell id="jjVxY_lUsI51bCeE4rsB-5" value="外网NG" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjI1NiIgd2lkdGg9IjI1NiIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzJDMkMyQyIgZD0iTTUxMiAwTDY4LjQ4IDI1NnY1MTJMNTEyIDEwMjRsNDQzLjUyLTI1NlYyNTZMNTEyIDB6IG0yNTYgNzA3Ljg0YzAgMzAuMDgtMjcuNTg0IDU1LjA0LTY1LjIxNiA1NS4wNC0yNi45NDQgMC01Ny42NjQtMTAuODgtNzYuODY0LTM0LjU2bC0yNTYtMzA0LjcwNHYyODQuMTZhNTQuNCA1NC40IDAgMCAxLTU0LjMzNiA1NS4wNGgtMy4yNjRjLTMwLjc4NCAwLTU1LjA0LTI1LjYtNTUuMDQtNTUuMDRWMzE2LjE2YzAtMzAuMDggMjYuODgtNTUuMDQgNjQtNTUuMDQgMjcuNTg0IDAgNTguODggMTAuODggNzguMDggMzQuNTZsMjU0LjcyIDMwNC43MDRWMzE2LjE2YzAtMzAuNzg0IDI1LjYtNTUuMDQgNTUuMDQtNTUuMDRoMy4yYzMwLjcyIDAgNTUuMDQgMjUuNiA1NS4wNCA1NS4wNHYzOTEuNjhoMC42NHoiLz48L3N2Zz4=;" vertex="1" parent="1">
           <mxGeometry x="500" y="511.70000000000005" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="jjVxY_lUsI51bCeE4rsB-8" target="jjVxY_lUsI51bCeE4rsB-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;exitX=1.029;exitY=0.565;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jjVxY_lUsI51bCeE4rsB-39" target="jjVxY_lUsI51bCeE4rsB-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="536.7777777777777" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="364" y="537" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-8" value="行业云waf&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.waf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="524.35" width="50" height="24.705" as="geometry" />
-        </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;" edge="1" parent="1" source="jjVxY_lUsI51bCeE4rsB-3" target="jjVxY_lUsI51bCeE4rsB-8">
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;" edge="1" parent="1" source="jjVxY_lUsI51bCeE4rsB-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="451" />
               <mxPoint x="230" y="537" />
             </Array>
+            <mxPoint x="320" y="536.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-11" value="IPV4访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jjVxY_lUsI51bCeE4rsB-10">
@@ -8578,7 +8581,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-12" value="HTTPS证书卸载" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];labelPosition=center;verticalLabelPosition=top;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="429.99739130434773" y="556.9991304347826" as="geometry" />
+          <mxGeometry x="434.99739130434773" y="533.9991304347826" as="geometry" />
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-13" value="办公内网" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="1280" y="320" width="500" height="390" as="geometry" />
@@ -8606,11 +8609,8 @@
         <mxCell id="jjVxY_lUsI51bCeE4rsB-20" value="&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;172.29.49.1&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;172.29.200.1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="1604" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-21" value="金桥" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-21" value="私有云平台" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="670" y="365" width="560" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-22" value="ELB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjI1NiIgd2lkdGg9IjI1NiIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZD0iTTk1OC4wNTY0NCA2NzEuNjM0NDExYy01LjE5OTQ5MiAwLTEwLjI5ODk5NCAwLjc5OTkyMi0xNC45OTg1MzUgMi4xOTk3ODVsLTM2Ni45NjQxNjQtNTU2LjE0NTY4OWM4LjQ5OTE3LTEyLjE5ODgwOSAxMy40OTg2ODItMjYuOTk3MzY0IDEzLjQ5ODY4Mi00Mi45OTU4MDEgMC00MS4yOTU5NjctMzMuMDk2NzY4LTc0LjY5MjcwNi03My43OTI3OTQtNzQuNjkyNzA2UzQ0Mi4wMDY4MzUgMzMuNDk2NzI5IDQ0Mi4wMDY4MzUgNzQuNjkyNzA2YzAgMTYuMTk4NDE4IDUuMDk5NTAyIDMxLjE5Njk1MyAxMy43OTg2NTMgNDMuMzk1NzYyTDg5LjI0MTI4NSA2NzMuNjM0MjE1Yy00Ljc5OTUzMS0xLjM5OTg2My05Ljg5OTAzMy0yLjE5OTc4NS0xNS4wOTg1MjYtMi4xOTk3ODUtMjkuNjk3MSAwLTUzLjg5NDczNyAyNC4zOTc2MTctNTMuODk0NzM2IDU0LjQ5NDY3OHMyNC4wOTc2NDcgNTQuNDk0Njc4IDUzLjg5NDczNiA1NC40OTQ2NzljMTQuNDk4NTg0IDAgMjcuNjk3Mjk1LTUuNzk5NDM0IDM3LjM5NjM0OS0xNS4yOTg1MDZMNDYzLjAwNDc4NSA5NTguOTA2MzU3Yy0wLjY5OTkzMiAzLjM5OTY2OC0wLjk5OTkwMiA2Ljg5OTMyNi0wLjk5OTkwMyAxMC41OTg5NjUgMCAzMC4wOTcwNjEgMjQuMDk3NjQ3IDU0LjQ5NDY3OCA1My44OTQ3MzcgNTQuNDk0Njc4IDI5LjY5NzEgMCA1My44OTQ3MzctMjQuMzk3NjE3IDUzLjg5NDczNy01NC40OTQ2NzggMC0zLjU5OTY0OC0wLjM5OTk2MS03LjA5OTMwNy0wLjk5OTkwMi0xMC40OTg5NzVsMzUxLjc2NTY0OC0xOTMuNzgxMDc2YzkuNjk5MDUzIDkuNDk5MDcyIDIyLjg5Nzc2NCAxNS4zOTg0OTYgMzcuNDk2MzM4IDE1LjM5ODQ5NiAyOS42OTcxIDAgNTMuODk0NzM3LTI0LjM5NzYxNyA1My44OTQ3MzctNTQuNDk0Njc4cy0yNC4xOTc2MzctNTQuNDk0Njc4LTUzLjg5NDczNy01NC40OTQ2Nzh6TTExNi4wMzg2NjggNjkxLjczMjQ0OEw0ODAuMDAzMTI1IDEzOS45ODYzMjljNS42OTk0NDMgMy4xOTk2ODggMTEuNzk4ODQ4IDUuNTk5NDUzIDE4LjI5ODIxMyA3LjE5OTI5N1Y5MTcuOTEwMzZjLTcuNDk5MjY4IDIuNTk5NzQ2LTE0LjE5ODYxMyA2Ljg5OTMyNi0xOS43OTgwNjcgMTIuMjk4Nzk5TDEyNi45Mzc2MDQgNzM2LjUyODA3M2MwLjY5OTkzMi0zLjM5OTY2OCAwLjk5OTkwMi02Ljg5OTMyNiAwLjk5OTkwMi0xMC41OTg5NjUgMC4wOTk5OS0xMi44OTg3NC00LjM5OTU3LTI0Ljc5NzU3OC0xMS44OTg4MzgtMzQuMTk2NjZ6IG00MTcuNDU5MjMzIDIyNi4yNzc5MDNWMTQ3LjE4NTYyNmM2LjQ5OTM2NS0xLjU5OTg0NCAxMi42OTg3Ni00LjE5OTU5IDE4LjQ5ODE5My03LjM5OTI3N2wzNjQuMTY0NDM3IDU1Mi4wNDYwODljLTcuNDk5MjY4IDkuMzk5MDgyLTExLjk5ODgyOCAyMS4yOTc5Mi0xMS45OTg4MjggMzQuMTk2NjYxIDAgMy41OTk2NDggMC4yOTk5NzEgNi45OTkzMTYgMC45OTk5MDIgMTAuMzk4OTg0TDU1My4yOTU5NjcgOTMwLjMwOTE0OWMtNS41OTk0NTMtNS40OTk0NjMtMTIuMjk4Nzk5LTkuNjk5MDUzLTE5Ljc5ODA2Ni0xMi4yOTg3OTh6Ii8+PC9zdmc+;" vertex="1" parent="1">
-          <mxGeometry x="690" y="407.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-25" value="行业云" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="321.34000000000003" width="350" height="120" as="geometry" />
@@ -8623,14 +8623,14 @@
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-28" value="IPV6转IPV4" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];labelPosition=center;verticalLabelPosition=top;" vertex="1" connectable="0" parent="jjVxY_lUsI51bCeE4rsB-27">
           <mxGeometry x="-0.2991" y="-2" relative="1" as="geometry">
-            <mxPoint x="15" y="-6" as="offset" />
+            <mxPoint x="14" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-29" value="行业云waf&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.waf;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="370.15000000000003" width="50" height="24.705" as="geometry" />
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-30" value="HTTPS证书卸载" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];labelPosition=center;verticalLabelPosition=top;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="422.49739130434773" y="402.7991304347826" as="geometry" />
+          <mxGeometry x="422.49739130434773" y="382.4991304347826" as="geometry" />
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-31" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.121.68.68&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.119.68.68&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="325.8" width="60" height="30" as="geometry" />
@@ -8650,6 +8650,45 @@
           <mxGeometry x="0.5377" y="2" relative="1" as="geometry">
             <mxPoint x="-21" y="-8" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-39" value="F5" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=default;shape=mxgraph.mscae.enterprise.d;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="509" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-44" value="EOS费收&lt;div&gt;主程序&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="710" y="407.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-45" value="基础账单&lt;div&gt;批处理&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="710" y="550" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-46" value="期权交易经手费&lt;div&gt;批处理&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="820" y="559" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-49" value="银行交互服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="681" y="760" width="249" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-50" value="&lt;div&gt;180.7.88.7&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="780" y="770" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-51" value="180.7.88.6" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="700" y="770" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-52" value="&lt;div&gt;180.7.91.7&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="860" y="770" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-53" value="消息通知服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="970" y="760" width="249" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-54" value="&lt;div&gt;180.7.88.7&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="1069" y="770" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-55" value="180.7.88.6" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="989" y="770" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-56" value="&lt;div&gt;180.7.91.7&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="1149" y="770" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-57" value="账单服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="414" y="760" width="249" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
