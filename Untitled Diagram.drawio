@@ -8653,18 +8653,6 @@
         <mxCell id="jjVxY_lUsI51bCeE4rsB-39" value="F5" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=default;shape=mxgraph.mscae.enterprise.d;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="509" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-49" value="银行交互服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="680" y="920" width="249" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-50" value="&lt;div&gt;180.7.88.7&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
-          <mxGeometry x="779" y="930" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-51" value="180.7.88.6" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
-          <mxGeometry x="699" y="930" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-52" value="&lt;div&gt;180.7.91.7&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
-          <mxGeometry x="859" y="930" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-53" value="消息通知服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="969" y="920" width="249" height="90" as="geometry" />
         </mxCell>
@@ -8779,6 +8767,21 @@
               <mxPoint x="590" y="405" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-89" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="600" width="249" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-49" value="银行交互服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="jjVxY_lUsI51bCeE4rsB-89">
+          <mxGeometry width="249" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-50" value="&lt;div&gt;180.7.88.7&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="jjVxY_lUsI51bCeE4rsB-89">
+          <mxGeometry x="99" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-51" value="180.7.88.6" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="jjVxY_lUsI51bCeE4rsB-89">
+          <mxGeometry x="19" y="10" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-52" value="&lt;div&gt;180.7.91.7&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="jjVxY_lUsI51bCeE4rsB-89">
+          <mxGeometry x="179" y="10" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
