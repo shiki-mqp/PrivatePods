@@ -8542,7 +8542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f0RT5k5DFNKHUCX7o7K9" name="费用收付平台非信创">
-    <mxGraphModel dx="1257" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8592,7 +8592,7 @@
         <mxCell id="jjVxY_lUsI51bCeE4rsB-20" value="&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;172.29.49.1&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;172.29.200.1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="460" y="635.0000000000001" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jjVxY_lUsI51bCeE4rsB-21" value="费用收付平台" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=2;" vertex="1" parent="1">
+        <mxCell id="jjVxY_lUsI51bCeE4rsB-21" value="费用收付平台" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=2;arcSize=4;" vertex="1" parent="1">
           <mxGeometry x="633" y="333" width="587" height="427" as="geometry" />
         </mxCell>
         <mxCell id="jjVxY_lUsI51bCeE4rsB-25" value="行业云" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;spacing=2;" vertex="1" parent="1">
