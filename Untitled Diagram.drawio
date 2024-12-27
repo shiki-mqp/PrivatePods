@@ -8900,7 +8900,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VsBETScvl9Ezi6wb5Zfb" name="费用收付平台信创">
-    <mxGraphModel dx="823" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8997,14 +8997,16 @@
         <mxCell id="2AJtjJGTBzuh5K_wJgRW-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.707;entryDx=0;entryDy=0;spacing=2;entryPerimeter=0;curved=0;" edge="1" parent="1" source="2AJtjJGTBzuh5K_wJgRW-30" target="2AJtjJGTBzuh5K_wJgRW-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="690" />
+              <mxPoint x="1190" y="690" />
+              <mxPoint x="1190" y="480" />
+              <mxPoint x="930" y="480" />
               <mxPoint x="930" y="431" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2AJtjJGTBzuh5K_wJgRW-29" value="账单生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacing=2;" vertex="1" connectable="0" parent="2AJtjJGTBzuh5K_wJgRW-28">
           <mxGeometry x="0.0046" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="-100" as="offset" />
+            <mxPoint x="-179" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2AJtjJGTBzuh5K_wJgRW-30" value="基础账单批处理" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;" vertex="1" parent="1">
@@ -9054,10 +9056,11 @@
         <mxCell id="2AJtjJGTBzuh5K_wJgRW-42" value="调度中心" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="496.5" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2AJtjJGTBzuh5K_wJgRW-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.695;entryDx=0;entryDy=0;curved=0;spacing=2;entryPerimeter=0;" edge="1" parent="1" source="2AJtjJGTBzuh5K_wJgRW-46" target="2AJtjJGTBzuh5K_wJgRW-54">
+        <mxCell id="2AJtjJGTBzuh5K_wJgRW-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.695;entryDx=0;entryDy=0;curved=0;spacing=2;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2AJtjJGTBzuh5K_wJgRW-46" target="2AJtjJGTBzuh5K_wJgRW-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="930" y="546" />
+              <mxPoint x="1060" y="480" />
+              <mxPoint x="930" y="480" />
               <mxPoint x="930" y="430" />
               <mxPoint x="890" y="430" />
             </Array>
@@ -9126,14 +9129,13 @@
         <mxCell id="2AJtjJGTBzuh5K_wJgRW-58" value="银行交互服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="650" y="640" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2AJtjJGTBzuh5K_wJgRW-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0.439;entryY=0.01;entryDx=0;entryDy=0;exitX=0.448;exitY=0.995;exitDx=0;exitDy=0;curved=0;spacing=2;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="2AJtjJGTBzuh5K_wJgRW-42" target="2AJtjJGTBzuh5K_wJgRW-58">
+        <mxCell id="2AJtjJGTBzuh5K_wJgRW-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;spacing=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2AJtjJGTBzuh5K_wJgRW-42" target="2AJtjJGTBzuh5K_wJgRW-58">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="700" as="sourcePoint" />
-            <mxPoint x="470" y="825" as="targetPoint" />
+            <mxPoint x="740" y="641" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="731" y="610" />
-              <mxPoint x="730" y="610" />
-              <mxPoint x="730" y="641" />
+              <mxPoint x="900" y="546" />
+              <mxPoint x="900" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -9259,6 +9261,37 @@
         </mxCell>
         <mxCell id="2AJtjJGTBzuh5K_wJgRW-94" value="消息通知-2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjI1NiIgd2lkdGg9IjI1NiIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTUyMi40OTYgNTMuMjQ4bDM3Mi43MzYgMTk0LjkxODQtODUuNTA0IDUwLjYzNjhhMTcuOTIgMTcuOTIgMCAwIDEtMTcuNDU5MiAwLjQ2MDhsLTI3Mi4xMjgtMTQyLjMzNmExMy44MjQgMTMuODI0IDAgMCAwLTExLjk4MDgtMC40MDk2bC0wLjg3MDQgMC40MDk2TDIwMi43NTIgMzE0LjQ3MDRhMTQuMzM2IDE0LjMzNiAwIDAgMC03LjY4IDExLjgyNzJ2MzcwLjQ4MzJjMCA1LjA2ODggMi42MTEyIDkuNzI4IDYuODYwOCAxMi4yODhsMC44MTkyIDAuNDYwOCAzMDMuMjA2NCAxNTcuNTQyNGExMy44MjQgMTMuODI0IDAgMCAwIDExLjkyOTYgMC40MDk2bDAuODcwNC0wLjQwOTYgMzAyLjU5Mi0xNTcuNTQyNGExNC4zMzYgMTQuMzM2IDAgMCAwIDcuNjgtMTEuNzc2VjM2Mi4yNGMwLTYuNjA0OCAzLjQ4MTYtMTIuNjk3NiA5LjExMzYtMTYuMDI1Nkw5MjEuNiAyOTYuODU3NnY0NTMuODg4YzAgNi45NjMyLTMuODQgMTMuMzEyLTkuODgxNiAxNi40ODY0bC0zOTEuMDY1NiAyMDMuNTJhMTcuOTIgMTcuOTIgMCAwIDEtMTYuNTM3NiAwbC0zOTEuNzgyNC0yMDMuNTJBMTguNTg1NiAxOC41ODU2IDAgMCAxIDEwMi40IDc1MC43NDU2VjI3My4zMDU2YzAtNi45NjMyIDMuODQtMTMuMzEyIDkuOTg0LTE2LjUzNzZMNTA1Ljg1NiA1My4yNDhhMTcuOTIgMTcuOTIgMCAwIDEgMTYuNTg4OCAwLjA1MTJ6Ii8+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTMzNi41ODg4IDQzNi43MzZsMTQ1LjQwOCA3NS42NzM2YzMuMDcyIDEuNTg3MiA1LjAxNzYgNC43NjE2IDUuMDE3NiA4LjI0MzJsMC4xMDI0IDE3Ny45NzEyYzAgMi41Ni0yLjA0OCA0LjYwOC00LjU1NjggNC42MDhhNC41MDU2IDQuNTA1NiAwIDAgMS0yLjA0OC0wLjUxMmwtMTQ1LjU2MTYtNzUuNjIyNGE5LjI2NzIgOS4yNjcyIDAgMCAxLTQuOTY2NC04LjE5MlY0NDAuODMyYTQuNTA1NiA0LjUwNTYgMCAwIDEgNi42NTYtNC4wOTZ6Ii8+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTY5OC42MjQgNDM4LjYzMDR2MTgwLjIyNGMwIDMuNDgxNi0xLjk0NTYgNi42NTYtNC45NjY0IDguMjQzMmwtMTQ1LjMwNTYgNzUuNjIyNGE0LjUwNTYgNC41MDU2IDAgMCAxLTYuMTQ0LTIuMDQ4IDQuNzEwNCA0LjcxMDQgMCAwIDEtMC40NjA4LTIuMDQ4bC0wLjE1MzYtMTgwLjIyNGMwLTMuNDMwNCAxLjk0NTYtNi42NTYgNC45NjY0LTguMTkybDE0NS40MDgtNzUuNzI0OGE0LjUwNTYgNC41MDU2IDAgMCAxIDYuMTQ0IDIuMDQ4YzAuMzA3MiAwLjYxNDQgMC41MTIgMS4zMzEyIDAuNTEyIDIuMDQ4ek01MTkuNDI0IDMwNS43NjY0bDE0MS43MjE2IDc0LjEzNzZhNC42NTkyIDQuNjU5MiAwIDAgMSAwIDguMTkybC0xNDQuODQ0OCA3NS40MTc2YTguOTYgOC45NiAwIDAgMS04LjI5NDQgMEwzNjUuNTY4IDM4OS4zMjQ4YTQuNjU5MiA0LjY1OTIgMCAwIDEgMC04LjE5MmwxNDUuNjEyOC03NS4zNjY0YTguOTYgOC45NiAwIDAgMSA4LjI5NDQgMHoiLz48L3N2Zz4=;" vertex="1" parent="1">
           <mxGeometry x="1070" y="385" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2AJtjJGTBzuh5K_wJgRW-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;spacing=2;" edge="1" parent="1" source="2AJtjJGTBzuh5K_wJgRW-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="607" as="sourcePoint" />
+            <mxPoint x="970" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="546" />
+              <mxPoint x="900" y="690" />
+              <mxPoint x="970" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2AJtjJGTBzuh5K_wJgRW-96" value="任务调度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacing=2;" vertex="1" connectable="0" parent="2AJtjJGTBzuh5K_wJgRW-95">
+          <mxGeometry x="-0.0813" y="-1" relative="1" as="geometry">
+            <mxPoint x="-3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2AJtjJGTBzuh5K_wJgRW-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;spacing=2;" edge="1" parent="1" source="2AJtjJGTBzuh5K_wJgRW-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="557" as="sourcePoint" />
+            <mxPoint x="970" y="546" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2AJtjJGTBzuh5K_wJgRW-98" value="任务调度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacing=2;" vertex="1" connectable="0" parent="2AJtjJGTBzuh5K_wJgRW-97">
+          <mxGeometry x="-0.0813" y="-1" relative="1" as="geometry">
+            <mxPoint x="36" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SvLlPiOo2xUA5KxtvX7v-1" value="账单扣费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacing=2;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="730" y="479.9966666666667" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
