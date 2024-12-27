@@ -8912,8 +8912,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="khB3lluI3DCtgcKZDubo-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="khB3lluI3DCtgcKZDubo-2" value="费用EOS主程序" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="430" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="khB3lluI3DCtgcKZDubo-1" value="机构端" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="140" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="CtaDuxQu6564QnqK8fbw-1" value="基础账单批处理" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="780" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ae0jTUyd1uxKZqmEce-1" value="期权交易经费手计算批处理" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="790" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3ae0jTUyd1uxKZqmEce-2" value="银行交互服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="780" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bua1FRjhK1ug-rU7p5eT-1" value="消息通知服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="940" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GN84zkCnp42X1EGtsscc-1" value="管理端" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="190" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="GN84zkCnp42X1EGtsscc-2" value="机构管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GN84zkCnp42X1EGtsscc-3" value="钱账管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GN84zkCnp42X1EGtsscc-4" value="流程管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
