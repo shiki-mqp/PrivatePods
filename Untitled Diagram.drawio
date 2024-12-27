@@ -8900,7 +8900,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VsBETScvl9Ezi6wb5Zfb" name="费用收付平台信创">
-    <mxGraphModel dx="1706" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9276,7 +9276,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SvLlPiOo2xUA5KxtvX7v-1" value="账单扣费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacing=2;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="839" y="479.9966666666667" as="geometry">
+          <mxGeometry x="830" y="469.9966666666667" as="geometry">
             <mxPoint x="16" y="140" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -9305,6 +9305,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1253" y="760.15" as="sourcePoint" />
             <mxPoint x="1273" y="810.15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SvLlPiOo2xUA5KxtvX7v-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SvLlPiOo2xUA5KxtvX7v-14" target="2AJtjJGTBzuh5K_wJgRW-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="410" />
+              <mxPoint x="750" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SvLlPiOo2xUA5KxtvX7v-14" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
