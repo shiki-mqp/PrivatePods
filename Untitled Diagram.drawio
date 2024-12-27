@@ -8542,7 +8542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f0RT5k5DFNKHUCX7o7K9" name="费用收付平台非信创">
-    <mxGraphModel dx="1592" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="682" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8892,6 +8892,9 @@
         </mxCell>
         <mxCell id="NKMV0MW3iMmBQjAZY1r7-31" value="180.7.218.1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjI1NiIgd2lkdGg9IjI1NiIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzEyOTZkYiIgZD0iTTIwNS42NTMzMzMgNzM3LjA2NjY2N2MtMjkuMTg0IDAtNTUuNjM3MzMzLTIzLjg5MzMzMy01NS42MzczMzMtNTIuOTA2NjY3czIzLjg5MzMzMy01My4wMzQ2NjcgNTUuNjgtNTMuMDM0NjY3YzMxLjkxNDY2NyAwIDU1Ljg5MzMzMyAyMy44OTMzMzMgNTUuODkzMzMzIDUyLjk5MnMtMjYuNTM4NjY3IDUyLjkwNjY2Ny01NS42OCA1Mi45MDY2Njd6IG02ODMuMTc4NjY3LTI4OC41NTQ2NjdjLTUuNzYtNDIuMzI1MzMzLTMyLTc2LjgtNjYuNTYtMTAzLjI1MzMzM2wtMTMuNDQtMTAuNjY2NjY3LTEwLjgzNzMzMyAxMy4yMjY2NjdjLTIxLjA3NzMzMyAyMy44OTMzMzMtMjkuNDQgNjYuMjYxMzMzLTI2Ljg4IDk3LjkyIDIuNTYgMjMuOTc4NjY3IDEwLjI0IDQ3Ljc4NjY2NyAyMy42MzczMzMgNjYuMzA0LTEwLjgzNzMzMyA1LjU0NjY2Ny0yNC4yMzQ2NjcgMTAuNjY2NjY3LTM0LjU2IDE2LjA4NTMzM2EyMjUuNzA2NjY3IDIyNS43MDY2NjcgMCAwIDEtNzEuNjggMTAuNjY2NjY3SDQuMTM4NjY3bC0yLjU2IDE1Ljc4NjY2NmEyOTcuODEzMzMzIDI5Ny44MTMzMzMgMCAwIDAgMjMuOTc4NjY2IDE1MS4wNGwxMC40MTA2NjcgMTguNTZ2Mi41NmM2NCAxMDUuOTQxMzMzIDE3Ny45MiAxNTMuNiAzMDEuOTk0NjY3IDE1My42IDIzOC42NzczMzMgMCA0MzQuNDMyLTEwMy4yNTMzMzMgNTI3LjIzMi0zMjUuNjc0NjY2IDYwLjggMi42NDUzMzMgMTIyLjE5NzMzMy0xMy4yMjY2NjcgMTUxLjA0LTcxLjUwOTMzNGw3LjY4LTEzLjIyNjY2Ni0xMi44LTcuOTc4NjY3Yy0zNC41Ni0yMS4wNzczMzMtODEuOTItMjMuODkzMzMzLTEyMS42LTEzLjIyNjY2N2wtMC43NjggMC4wODUzMzR6IG0tMzQxLjY3NDY2Ny00Mi4zMjUzMzNoLTEwMy41OTQ2NjZ2MTAzLjI1MzMzM2gxMDMuNjhWNDA2LjEwMTMzM2wtMC4wODUzMzQgMC4xMjh6IG0wLTEyOS44MzQ2NjdoLTEwMy41OTQ2NjZ2MTAzLjI1MzMzM2gxMDMuNjhWMjc2LjQ4bC0wLjA4NTMzNC0wLjEyOHogbTAtMTMyLjQzNzMzM2gtMTAzLjU5NDY2NnYxMDMuMjUzMzMzaDEwMy42OHYtMTAzLjI1MzMzM2gtMC4wODUzMzR6IG0xMjYuNzIgMjYyLjI3Mkg1NzAuODh2MTAzLjI1MzMzM2gxMDMuMjUzMzMzVjQwNi4xMDEzMzNsLTAuMjk4NjY2IDAuMTI4eiBtLTM4My45MTQ2NjYgMEgxODcuMDA4djEwMy4yNTMzMzNoMTAzLjMzODY2N1Y0MDYuMTAxMzMzbC0wLjQyNjY2NyAwLjEyOHogbTEyOS4yOCAwaC0xMDIuNHYxMDMuMjUzMzMzSDQxOS44NFY0MDYuMTAxMzMzbC0wLjY0IDAuMTI4eiBtLTI1Ny4yOCAwSDU5LjczMzMzM3YxMDMuMjUzMzMzaDEwMy41OTQ2NjdWNDA2LjEwMTMzM2wtMS4yOCAwLjEyOHogbTI1Ny4yOC0xMjkuODM0NjY3aC0xMDIuNHYxMDMuMjUzMzMzSDQxOS44NFYyNzYuNDhsLTAuNjQtMC4xMjh6IG0tMTI5LjkyIDBIMTg3LjE3ODY2N3YxMDMuMjUzMzMzSDI5MC4xMzMzMzNWMjc2LjQ4bC0wLjY4MjY2Ni0wLjEyOHoiLz48L3N2Zz4=;" vertex="1" parent="1">
           <mxGeometry x="823" y="385" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NKMV0MW3iMmBQjAZY1r7-32" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;180.10.112.10&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;180.10.252.10&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="455" y="810" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
