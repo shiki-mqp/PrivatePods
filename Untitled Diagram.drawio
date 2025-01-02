@@ -9602,7 +9602,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9zM9XyV2WtOYgQ27QtT3" name="第 32 页">
-    <mxGraphModel dx="2232" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2320" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9746,6 +9746,18 @@
         </mxCell>
         <mxCell id="rCix60-WHDvjvIGsH6lv-3" value="中国结算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-300" y="225.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ibN5kM56tnXwElnmSnxo-6" value="&lt;b&gt;银行&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;arcSize=6;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibN5kM56tnXwElnmSnxo-7" value="工农中建交" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="200" y="699" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ibN5kM56tnXwElnmSnxo-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;spacing=2;startArrow=block;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.67" y="577" as="sourcePoint" />
+            <mxPoint x="239.67" y="647" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
