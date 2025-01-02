@@ -9186,7 +9186,7 @@
             <mxPoint x="1" y="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2AJtjJGTBzuh5K_wJgRW-54" value="费收EOS主程序" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="2AJtjJGTBzuh5K_wJgRW-54" value="费收主体程序" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="759" y="360" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2AJtjJGTBzuh5K_wJgRW-55" value="中台信创服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
