@@ -10354,7 +10354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yqE61lgUgJ2CUhhvY4J2" name="随行办公3.0升级">
-    <mxGraphModel dx="1706" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10494,7 +10494,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4um1ojoW7DcB-hr2pe_V-24" value="8080&lt;div&gt;（TCP长连接）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="4um1ojoW7DcB-hr2pe_V-23" vertex="1" connectable="0">
+        <mxCell id="4um1ojoW7DcB-hr2pe_V-24" value="8080&lt;div&gt;（TCP长连接）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#FF0000;" parent="4um1ojoW7DcB-hr2pe_V-23" vertex="1" connectable="0">
           <mxGeometry x="0.0385" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
