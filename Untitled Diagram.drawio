@@ -9755,7 +9755,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="外包管理系统架构图" id="JZaAnGVdvtXgCpMLT38o">
-    <mxGraphModel dx="1592" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="d1ppYcPQFasTuiBs3lV5-0" />
         <mxCell id="d1ppYcPQFasTuiBs3lV5-1" parent="d1ppYcPQFasTuiBs3lV5-0" />
@@ -9810,7 +9810,7 @@
         <mxCell id="d1ppYcPQFasTuiBs3lV5-20" value="行业云waf&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.waf;spacing=2;" vertex="1" parent="d1ppYcPQFasTuiBs3lV5-1">
           <mxGeometry x="420" y="385.29" width="50" height="24.705" as="geometry" />
         </mxCell>
-        <mxCell id="d1ppYcPQFasTuiBs3lV5-21" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.121.68.68&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.119.68.68&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacing=2;" vertex="1" parent="d1ppYcPQFasTuiBs3lV5-1">
+        <mxCell id="d1ppYcPQFasTuiBs3lV5-21" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.121.76.224&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.119.76.206&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacing=2;" vertex="1" parent="d1ppYcPQFasTuiBs3lV5-1">
           <mxGeometry x="515" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d1ppYcPQFasTuiBs3lV5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;spacing=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="d1ppYcPQFasTuiBs3lV5-1">
