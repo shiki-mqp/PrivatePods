@@ -4917,7 +4917,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图20240305" id="vrq3CehyCDE57bQczdU9">
-    <mxGraphModel dx="1573" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2998" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-0" />
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-1" parent="5DQPf7DMDd3WoIMEbBlo-0" />
@@ -5257,22 +5257,22 @@
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-106" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;统一门户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="341.21000000000004" y="301" width="132.58" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-107" value="知识中心" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-107" value="知识中心" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1BA1E2;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="294.29" y="142.11999999999998" width="59.21" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-108" value="数据中心" style="sketch=0;pointerEvents=1;shadow=1;html=1;strokeColor=#BD7000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f0a30a;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=#000000;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-108" value="数据中心" style="sketch=0;pointerEvents=1;shadow=1;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1BA1E2;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;dashed=0;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="393.28999999999996" y="142.12" width="59.21" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-109" value="组织用户" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#BD7000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f0a30a;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=#000000;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-109" value="组织用户" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1BA1E2;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="487.21999999999997" y="142.11999999999998" width="59.21" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-110" value="信息中心" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-110" value="信息中心" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1BA1E2;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="-29.959999999999987" y="145" width="59.21" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-111" value="应用中心" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-111" value="应用中心" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1BA1E2;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="190.00000000000003" y="142.12" width="59.21" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-112" value="工作中心" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#b46504;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fad7ac;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-112" value="工作中心" style="sketch=0;pointerEvents=1;shadow=1;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#1BA1E2;shape=mxgraph.mscae.intune.company_portal;labelBackgroundColor=none;strokeWidth=1;fontFamily=Helvetica;fontSize=16;aspect=fixed;fontColor=default;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="80.79000000000003" y="144.42" width="59.21" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" parent="5DQPf7DMDd3WoIMEbBlo-1" edge="1">
