@@ -9785,7 +9785,7 @@
         <mxCell id="d1ppYcPQFasTuiBs3lV5-14" value="&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;172.29.49.1&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;172.29.200.1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacing=2;" vertex="1" parent="d1ppYcPQFasTuiBs3lV5-1">
           <mxGeometry x="432.5" y="497.6500000000001" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d1ppYcPQFasTuiBs3lV5-15" value="外包管理系统（容器云K8S）" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=2;arcSize=2;" vertex="1" parent="d1ppYcPQFasTuiBs3lV5-1">
+        <mxCell id="d1ppYcPQFasTuiBs3lV5-15" value="外包管理系统" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=2;arcSize=2;" vertex="1" parent="d1ppYcPQFasTuiBs3lV5-1">
           <mxGeometry x="633" y="333" width="617" height="277" as="geometry" />
         </mxCell>
         <mxCell id="d1ppYcPQFasTuiBs3lV5-16" value="行业云" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;spacing=2;" vertex="1" parent="d1ppYcPQFasTuiBs3lV5-1">
