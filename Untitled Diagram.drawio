@@ -10557,7 +10557,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yqE61lgUgJ2CUhhvY4J2" name="随行办公3.0升级">
-    <mxGraphModel dx="1394" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10684,7 +10684,7 @@
         <mxCell id="4um1ojoW7DcB-hr2pe_V-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;" parent="1" source="4um1ojoW7DcB-hr2pe_V-14" target="4um1ojoW7DcB-hr2pe_V-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4um1ojoW7DcB-hr2pe_V-21" value="443&lt;div&gt;（HTTP连接）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=10;fontColor=#3700CC;" parent="4um1ojoW7DcB-hr2pe_V-20" vertex="1" connectable="0">
+        <mxCell id="4um1ojoW7DcB-hr2pe_V-21" value="443&lt;div&gt;（HTTPS连接）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=10;fontColor=#3700CC;" parent="4um1ojoW7DcB-hr2pe_V-20" vertex="1" connectable="0">
           <mxGeometry x="-0.1193" y="-1" relative="1" as="geometry">
             <mxPoint x="5" y="12" as="offset" />
           </mxGeometry>
