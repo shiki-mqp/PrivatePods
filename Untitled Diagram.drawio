@@ -4917,7 +4917,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图20240305" id="vrq3CehyCDE57bQczdU9">
-    <mxGraphModel dx="1757" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2996" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-0" />
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-1" parent="5DQPf7DMDd3WoIMEbBlo-0" />
@@ -5315,13 +5315,13 @@
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-123" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;办公&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" parent="5DQPf7DMDd3WoIMEbBlo-120" vertex="1">
           <mxGeometry x="88.95999999999992" y="70" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-124" value="督办" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-124" value="督办" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#BD7000;fillColor=#FAD7AC;shape=mxgraph.azure.cloud_service;shadow=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;fontFamily=Helvetica;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="64.31" y="483.5" width="62.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-125" value="行政管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-125" value="行政管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#BD7000;fillColor=#FAD7AC;shape=mxgraph.azure.cloud_service;shadow=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;fontFamily=Helvetica;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="-35.690000000000055" y="559.5" width="62.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-126" value="后勤服务" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-126" value="后勤服务" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#BD7000;fillColor=#FAD7AC;shape=mxgraph.azure.cloud_service;shadow=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;fontFamily=Helvetica;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="64.30999999999995" y="559.5" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-127" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;dashPattern=12 12;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
@@ -5381,7 +5381,7 @@
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-139" value="随行开发" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="376.24999999999994" y="747.3900000000001" width="62.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-143" value="公文" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-143" value="公文" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#BD7000;fillColor=#FAD7AC;shape=mxgraph.azure.cloud_service;shadow=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;fontFamily=Helvetica;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="-35.690000000000055" y="483.5" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="5DQPf7DMDd3WoIMEbBlo-1" source="5DQPf7DMDd3WoIMEbBlo-127" edge="1">
@@ -5483,7 +5483,7 @@
         <mxCell id="DTa-5iCNzG7s8D6aW4d--6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" parent="DTa-5iCNzG7s8D6aW4d--3" vertex="1">
           <mxGeometry x="88.95999999999992" y="70" width="45" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DTa-5iCNzG7s8D6aW4d--7" value="外包管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#BD7000;fillColor=#f0a30a;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;fontFamily=Helvetica;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
+        <mxCell id="DTa-5iCNzG7s8D6aW4d--7" value="&lt;span&gt;外包管理&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#2D7600;fillColor=#60a917;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;labelBackgroundColor=none;fontFamily=Helvetica;fontColor=#000000;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
           <mxGeometry x="679.29" y="483.61" width="62.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DTa-5iCNzG7s8D6aW4d--8" value="党建" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#BD7000;fillColor=#FAD7AC;shape=mxgraph.azure.cloud_service;shadow=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;fontFamily=Helvetica;" parent="5DQPf7DMDd3WoIMEbBlo-1" vertex="1">
