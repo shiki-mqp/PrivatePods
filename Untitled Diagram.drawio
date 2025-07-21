@@ -9469,7 +9469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VsBETScvl9Ezi6wb5Zfb" name="费用收付平台信创">
-    <mxGraphModel dx="1148" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1084" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9950,13 +9950,13 @@
           <mxGeometry x="1255" y="524.5" as="geometry" />
         </mxCell>
         <mxCell id="erJyBCbJwgvX_T4KdPyz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="320" width="180" height="240" as="geometry" />
+          <mxGeometry x="1640" y="320" width="180" height="260" as="geometry" />
         </mxCell>
         <mxCell id="erJyBCbJwgvX_T4KdPyz-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;系统间调用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1722.17" y="334.64" width="130" height="33.51" as="geometry" />
         </mxCell>
         <mxCell id="erJyBCbJwgvX_T4KdPyz-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;系统内调用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1722.17" y="476.49" width="97.83" height="33.51" as="geometry" />
+          <mxGeometry x="1722.17" y="483.49" width="97.83" height="33.51" as="geometry" />
         </mxCell>
         <mxCell id="erJyBCbJwgvX_T4KdPyz-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;银行专线&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;fontStyle=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1722.17" y="435.99" width="97.83" height="33.51" as="geometry" />
@@ -9972,11 +9972,11 @@
         </mxCell>
         <mxCell id="erJyBCbJwgvX_T4KdPyz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;curved=0;spacing=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1652" y="493.25" as="sourcePoint" />
-            <mxPoint x="1712.17" y="493.25" as="targetPoint" />
+            <mxPoint x="1652" y="500.25" as="sourcePoint" />
+            <mxPoint x="1712.17" y="500.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1692.67" y="493.25" />
-              <mxPoint x="1692.67" y="493.25" />
+              <mxPoint x="1692.67" y="500.25" />
+              <mxPoint x="1692.67" y="500.25" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -10007,15 +10007,15 @@
         </mxCell>
         <mxCell id="erJyBCbJwgvX_T4KdPyz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;exitX=1.029;exitY=0.565;exitDx=0;exitDy=0;exitPerimeter=0;spacing=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1652.17" y="529.69" as="sourcePoint" />
+            <mxPoint x="1652.17" y="543.69" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1658.0500000000002" y="530.19" />
+              <mxPoint x="1658.0500000000002" y="544.19" />
             </Array>
-            <mxPoint x="1712.3400000000001" y="529.69" as="targetPoint" />
+            <mxPoint x="1712.3400000000001" y="543.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="erJyBCbJwgvX_T4KdPyz-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;用户接入&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1722.17" y="513.24" width="87.83" height="33.51" as="geometry" />
+          <mxGeometry x="1722.17" y="527.24" width="87.83" height="33.51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
