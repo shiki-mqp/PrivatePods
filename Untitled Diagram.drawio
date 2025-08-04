@@ -10620,7 +10620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yqE61lgUgJ2CUhhvY4J2" name="随行办公3.0升级">
-    <mxGraphModel dx="1419" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1225" dy="222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10756,7 +10756,7 @@
         </mxCell>
         <mxCell id="cGYAlGMeCgvnSi_kHtne-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;" parent="1" source="4um1ojoW7DcB-hr2pe_V-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="750" as="targetPoint" />
+            <mxPoint x="30" y="750" as="targetPoint" />
             <Array as="points">
               <mxPoint x="570" y="750" />
             </Array>
