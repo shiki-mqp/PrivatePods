@@ -10620,7 +10620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="视频会议系统" id="H9SHrZ3WGtmK4DiyWOEn">
-    <mxGraphModel dx="930" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="781" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G16huT5RsPO9bk5rvKYo-0" />
         <mxCell id="G16huT5RsPO9bk5rvKYo-1" parent="G16huT5RsPO9bk5rvKYo-0" />
@@ -10662,12 +10662,11 @@
             <mxPoint x="940" y="794.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_Nj2L_yl8SLtqG5JdSS-16" edge="1" parent="G16huT5RsPO9bk5rvKYo-1" source="c_Nj2L_yl8SLtqG5JdSS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;spacing=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="M81FMVfBmfCHXrGNzbPQ-15" value="">
+        <mxCell id="c_Nj2L_yl8SLtqG5JdSS-16" edge="1" parent="G16huT5RsPO9bk5rvKYo-1" source="c_Nj2L_yl8SLtqG5JdSS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;spacing=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="M81FMVfBmfCHXrGNzbPQ-15" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1150" y="911" />
               <mxPoint x="1150" y="800" />
-              <mxPoint x="1170" y="800" />
             </Array>
             <mxPoint x="1107" y="782.5" as="sourcePoint" />
             <mxPoint x="1160" y="800" as="targetPoint" />
