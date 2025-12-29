@@ -10620,7 +10620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="视频会议系统" id="H9SHrZ3WGtmK4DiyWOEn">
-    <mxGraphModel dx="751" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="673" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G16huT5RsPO9bk5rvKYo-0" />
         <mxCell id="G16huT5RsPO9bk5rvKYo-1" parent="G16huT5RsPO9bk5rvKYo-0" />
@@ -10823,9 +10823,8 @@
         <mxCell id="M81FMVfBmfCHXrGNzbPQ-61" edge="1" parent="G16huT5RsPO9bk5rvKYo-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=1.006;entryY=0.689;entryDx=0;entryDy=0;entryPerimeter=0;" target="c_Nj2L_yl8SLtqG5JdSS-37" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="684" y="840" />
-              <mxPoint x="640" y="840" />
-              <mxPoint x="640" y="604" />
+              <mxPoint x="630" y="840" />
+              <mxPoint x="630" y="604" />
             </Array>
             <mxPoint x="684" y="839" as="sourcePoint" />
             <mxPoint x="654" y="820" as="targetPoint" />
