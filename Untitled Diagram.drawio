@@ -10620,7 +10620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="视频会议系统" id="H9SHrZ3WGtmK4DiyWOEn">
-    <mxGraphModel dx="697" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G16huT5RsPO9bk5rvKYo-0" />
         <mxCell id="G16huT5RsPO9bk5rvKYo-1" parent="G16huT5RsPO9bk5rvKYo-0" />
@@ -10668,6 +10668,17 @@
             </Array>
             <mxPoint x="990" y="910" as="sourcePoint" />
             <mxPoint x="1160" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M81FMVfBmfCHXrGNzbPQ-54" edge="1" parent="G16huT5RsPO9bk5rvKYo-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFB570;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="c_Nj2L_yl8SLtqG5JdSS-48" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="779.6400000000002" y="868" as="sourcePoint" />
+            <mxPoint x="779.6400000000002" y="948" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M81FMVfBmfCHXrGNzbPQ-55" connectable="0" parent="M81FMVfBmfCHXrGNzbPQ-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" value="公网会议视频流" vertex="1">
+          <mxGeometry relative="1" x="-0.099" y="-1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c_Nj2L_yl8SLtqG5JdSS-37" parent="G16huT5RsPO9bk5rvKYo-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" value="随行客户端" vertex="1">
