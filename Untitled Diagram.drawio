@@ -10670,6 +10670,12 @@
             <mxPoint x="1160" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="M81FMVfBmfCHXrGNzbPQ-54" edge="1" parent="G16huT5RsPO9bk5rvKYo-1" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;strokeWidth=2;align=center;verticalAlign=middle;spacing=2;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="c_Nj2L_yl8SLtqG5JdSS-48" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="779.6400000000002" y="868" as="sourcePoint" />
+            <mxPoint x="779.6400000000002" y="948" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c_Nj2L_yl8SLtqG5JdSS-37" parent="G16huT5RsPO9bk5rvKYo-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" value="随行客户端" vertex="1">
           <mxGeometry height="100" width="160" x="700" y="744.71" as="geometry" />
         </mxCell>
