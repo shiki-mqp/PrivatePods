@@ -10620,7 +10620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="视频会议系统" id="H9SHrZ3WGtmK4DiyWOEn">
-    <mxGraphModel dx="434" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="751" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G16huT5RsPO9bk5rvKYo-0" />
         <mxCell id="G16huT5RsPO9bk5rvKYo-1" parent="G16huT5RsPO9bk5rvKYo-0" />
@@ -10824,19 +10824,18 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="684" y="840" />
-              <mxPoint x="624" y="840" />
-              <mxPoint x="624" y="604" />
+              <mxPoint x="640" y="840" />
+              <mxPoint x="640" y="604" />
             </Array>
             <mxPoint x="684" y="839" as="sourcePoint" />
             <mxPoint x="654" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M81FMVfBmfCHXrGNzbPQ-62" edge="1" parent="G16huT5RsPO9bk5rvKYo-1" source="c_Nj2L_yl8SLtqG5JdSS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;curved=0;spacing=2;strokeWidth=2;endArrow=classic;endFill=1;" target="c_Nj2L_yl8SLtqG5JdSS-13" value="">
+        <mxCell id="M81FMVfBmfCHXrGNzbPQ-62" edge="1" parent="G16huT5RsPO9bk5rvKYo-1" source="c_Nj2L_yl8SLtqG5JdSS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;curved=0;spacing=2;strokeWidth=2;endArrow=classic;endFill=1;exitX=0.998;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" target="c_Nj2L_yl8SLtqG5JdSS-13" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="660" />
-              <mxPoint x="630" y="660" />
-              <mxPoint x="630" y="580" />
+              <mxPoint x="640" y="823" />
+              <mxPoint x="640" y="580" />
             </Array>
             <mxPoint x="640" y="580" as="sourcePoint" />
             <mxPoint x="670" y="590" as="targetPoint" />
