@@ -10620,7 +10620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="视频会议系统" id="H9SHrZ3WGtmK4DiyWOEn">
-    <mxGraphModel dx="651" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="781" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G16huT5RsPO9bk5rvKYo-0" />
         <mxCell id="G16huT5RsPO9bk5rvKYo-1" parent="G16huT5RsPO9bk5rvKYo-0" />
@@ -10662,10 +10662,10 @@
             <mxPoint x="940" y="794.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_Nj2L_yl8SLtqG5JdSS-16" edge="1" parent="G16huT5RsPO9bk5rvKYo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;curved=0;spacing=2;entryX=0;entryY=0.453;entryDx=0;entryDy=0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryPerimeter=0;" target="M81FMVfBmfCHXrGNzbPQ-15" value="">
+        <mxCell id="c_Nj2L_yl8SLtqG5JdSS-16" edge="1" parent="G16huT5RsPO9bk5rvKYo-1" source="c_Nj2L_yl8SLtqG5JdSS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;curved=0;spacing=2;entryX=0;entryY=0.453;entryDx=0;entryDy=0;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="M81FMVfBmfCHXrGNzbPQ-15" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="910" />
+              <mxPoint x="1040" y="923" />
               <mxPoint x="1040" y="790" />
             </Array>
             <mxPoint x="990" y="910" as="sourcePoint" />
