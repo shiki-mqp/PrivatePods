@@ -10213,7 +10213,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="外包管理系统架构图--金证" id="6dfMu4yK-vipxuSPPqyC">
-    <mxGraphModel dx="1502" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1627" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-0" />
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-1" parent="Al-g1gMdhk_kdgcWLs1u-0" />
@@ -10271,10 +10271,10 @@
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-16" parent="Al-g1gMdhk_kdgcWLs1u-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacing=2;" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.121.76.224&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.119.76.206&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="515" y="574.67" as="geometry" />
         </mxCell>
-        <mxCell id="Al-g1gMdhk_kdgcWLs1u-17" edge="1" parent="Al-g1gMdhk_kdgcWLs1u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;spacing=2;" target="Al-g1gMdhk_kdgcWLs1u-15" value="">
+        <mxCell id="Al-g1gMdhk_kdgcWLs1u-17" edge="1" parent="Al-g1gMdhk_kdgcWLs1u-1" source="Al-g1gMdhk_kdgcWLs1u-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;spacing=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Al-g1gMdhk_kdgcWLs1u-15" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="471" />
+              <mxPoint x="400" y="390" />
               <mxPoint x="400" y="632" />
             </Array>
             <mxPoint x="400" y="470" as="sourcePoint" />
