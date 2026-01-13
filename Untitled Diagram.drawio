@@ -10213,7 +10213,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="外包管理系统架构图--金证" id="6dfMu4yK-vipxuSPPqyC">
-    <mxGraphModel dx="887" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1627" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-0" />
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-1" parent="Al-g1gMdhk_kdgcWLs1u-0" />
@@ -10460,6 +10460,11 @@
         <mxCell id="MFuzPANJppUq5y8XkTda-11" parent="Al-g1gMdhk_kdgcWLs1u-1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjI1NiIgd2lkdGg9IjI1NiIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTUyMi40OTYgNTMuMjQ4bDM3Mi43MzYgMTk0LjkxODQtODUuNTA0IDUwLjYzNjhhMTcuOTIgMTcuOTIgMCAwIDEtMTcuNDU5MiAwLjQ2MDhsLTI3Mi4xMjgtMTQyLjMzNmExMy44MjQgMTMuODI0IDAgMCAwLTExLjk4MDgtMC40MDk2bC0wLjg3MDQgMC40MDk2TDIwMi43NTIgMzE0LjQ3MDRhMTQuMzM2IDE0LjMzNiAwIDAgMC03LjY4IDExLjgyNzJ2MzcwLjQ4MzJjMCA1LjA2ODggMi42MTEyIDkuNzI4IDYuODYwOCAxMi4yODhsMC44MTkyIDAuNDYwOCAzMDMuMjA2NCAxNTcuNTQyNGExMy44MjQgMTMuODI0IDAgMCAwIDExLjkyOTYgMC40MDk2bDAuODcwNC0wLjQwOTYgMzAyLjU5Mi0xNTcuNTQyNGExNC4zMzYgMTQuMzM2IDAgMCAwIDcuNjgtMTEuNzc2VjM2Mi4yNGMwLTYuNjA0OCAzLjQ4MTYtMTIuNjk3NiA5LjExMzYtMTYuMDI1Nkw5MjEuNiAyOTYuODU3NnY0NTMuODg4YzAgNi45NjMyLTMuODQgMTMuMzEyLTkuODgxNiAxNi40ODY0bC0zOTEuMDY1NiAyMDMuNTJhMTcuOTIgMTcuOTIgMCAwIDEtMTYuNTM3NiAwbC0zOTEuNzgyNC0yMDMuNTJBMTguNTg1NiAxOC41ODU2IDAgMCAxIDEwMi40IDc1MC43NDU2VjI3My4zMDU2YzAtNi45NjMyIDMuODQtMTMuMzEyIDkuOTg0LTE2LjUzNzZMNTA1Ljg1NiA1My4yNDhhMTcuOTIgMTcuOTIgMCAwIDEgMTYuNTg4OCAwLjA1MTJ6Ii8+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTMzNi41ODg4IDQzNi43MzZsMTQ1LjQwOCA3NS42NzM2YzMuMDcyIDEuNTg3MiA1LjAxNzYgNC43NjE2IDUuMDE3NiA4LjI0MzJsMC4xMDI0IDE3Ny45NzEyYzAgMi41Ni0yLjA0OCA0LjYwOC00LjU1NjggNC42MDhhNC41MDU2IDQuNTA1NiAwIDAgMS0yLjA0OC0wLjUxMmwtMTQ1LjU2MTYtNzUuNjIyNGE5LjI2NzIgOS4yNjcyIDAgMCAxLTQuOTY2NC04LjE5MlY0NDAuODMyYTQuNTA1NiA0LjUwNTYgMCAwIDEgNi42NTYtNC4wOTZ6Ii8+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTY5OC42MjQgNDM4LjYzMDR2MTgwLjIyNGMwIDMuNDgxNi0xLjk0NTYgNi42NTYtNC45NjY0IDguMjQzMmwtMTQ1LjMwNTYgNzUuNjIyNGE0LjUwNTYgNC41MDU2IDAgMCAxLTYuMTQ0LTIuMDQ4IDQuNzEwNCA0LjcxMDQgMCAwIDEtMC40NjA4LTIuMDQ4bC0wLjE1MzYtMTgwLjIyNGMwLTMuNDMwNCAxLjk0NTYtNi42NTYgNC45NjY0LTguMTkybDE0NS40MDgtNzUuNzI0OGE0LjUwNTYgNC41MDU2IDAgMCAxIDYuMTQ0IDIuMDQ4YzAuMzA3MiAwLjYxNDQgMC41MTIgMS4zMzEyIDAuNTEyIDIuMDQ4ek01MTkuNDI0IDMwNS43NjY0bDE0MS43MjE2IDc0LjEzNzZhNC42NTkyIDQuNjU5MiAwIDAgMSAwIDguMTkybC0xNDQuODQ0OCA3NS40MTc2YTguOTYgOC45NiAwIDAgMS04LjI5NDQgMEwzNjUuNTY4IDM4OS4zMjQ4YTQuNjU5MiA0LjY1OTIgMCAwIDEgMC04LjE5MmwxNDUuNjEyOC03NS4zNjY0YTguOTYgOC45NiAwIDAgMSA4LjI5NDQgMHoiLz48L3N2Zz4=;" value="订单管理-2" vertex="1">
           <mxGeometry height="50" width="50" x="1087.5" y="515" as="geometry" />
         </mxCell>
+        <mxCell id="MFuzPANJppUq5y8XkTda-34" edge="1" parent="Al-g1gMdhk_kdgcWLs1u-1" source="MFuzPANJppUq5y8XkTda-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#97D077;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MFuzPANJppUq5y8XkTda-12" parent="Al-g1gMdhk_kdgcWLs1u-1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;fillColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="招聘管理" vertex="1">
           <mxGeometry height="100" width="180" x="1190" y="360" as="geometry" />
         </mxCell>
@@ -10468,6 +10473,9 @@
         </mxCell>
         <mxCell id="MFuzPANJppUq5y8XkTda-14" parent="Al-g1gMdhk_kdgcWLs1u-1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjI1NiIgd2lkdGg9IjI1NiIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTUyMi40OTYgNTMuMjQ4bDM3Mi43MzYgMTk0LjkxODQtODUuNTA0IDUwLjYzNjhhMTcuOTIgMTcuOTIgMCAwIDEtMTcuNDU5MiAwLjQ2MDhsLTI3Mi4xMjgtMTQyLjMzNmExMy44MjQgMTMuODI0IDAgMCAwLTExLjk4MDgtMC40MDk2bC0wLjg3MDQgMC40MDk2TDIwMi43NTIgMzE0LjQ3MDRhMTQuMzM2IDE0LjMzNiAwIDAgMC03LjY4IDExLjgyNzJ2MzcwLjQ4MzJjMCA1LjA2ODggMi42MTEyIDkuNzI4IDYuODYwOCAxMi4yODhsMC44MTkyIDAuNDYwOCAzMDMuMjA2NCAxNTcuNTQyNGExMy44MjQgMTMuODI0IDAgMCAwIDExLjkyOTYgMC40MDk2bDAuODcwNC0wLjQwOTYgMzAyLjU5Mi0xNTcuNTQyNGExNC4zMzYgMTQuMzM2IDAgMCAwIDcuNjgtMTEuNzc2VjM2Mi4yNGMwLTYuNjA0OCAzLjQ4MTYtMTIuNjk3NiA5LjExMzYtMTYuMDI1Nkw5MjEuNiAyOTYuODU3NnY0NTMuODg4YzAgNi45NjMyLTMuODQgMTMuMzEyLTkuODgxNiAxNi40ODY0bC0zOTEuMDY1NiAyMDMuNTJhMTcuOTIgMTcuOTIgMCAwIDEtMTYuNTM3NiAwbC0zOTEuNzgyNC0yMDMuNTJBMTguNTg1NiAxOC41ODU2IDAgMCAxIDEwMi40IDc1MC43NDU2VjI3My4zMDU2YzAtNi45NjMyIDMuODQtMTMuMzEyIDkuOTg0LTE2LjUzNzZMNTA1Ljg1NiA1My4yNDhhMTcuOTIgMTcuOTIgMCAwIDEgMTYuNTg4OCAwLjA1MTJ6Ii8+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTMzNi41ODg4IDQzNi43MzZsMTQ1LjQwOCA3NS42NzM2YzMuMDcyIDEuNTg3MiA1LjAxNzYgNC43NjE2IDUuMDE3NiA4LjI0MzJsMC4xMDI0IDE3Ny45NzEyYzAgMi41Ni0yLjA0OCA0LjYwOC00LjU1NjggNC42MDhhNC41MDU2IDQuNTA1NiAwIDAgMS0yLjA0OC0wLjUxMmwtMTQ1LjU2MTYtNzUuNjIyNGE5LjI2NzIgOS4yNjcyIDAgMCAxLTQuOTY2NC04LjE5MlY0NDAuODMyYTQuNTA1NiA0LjUwNTYgMCAwIDEgNi42NTYtNC4wOTZ6Ii8+PHBhdGggZmlsbD0iIzJjMmMyYyIgZD0iTTY5OC42MjQgNDM4LjYzMDR2MTgwLjIyNGMwIDMuNDgxNi0xLjk0NTYgNi42NTYtNC45NjY0IDguMjQzMmwtMTQ1LjMwNTYgNzUuNjIyNGE0LjUwNTYgNC41MDU2IDAgMCAxLTYuMTQ0LTIuMDQ4IDQuNzEwNCA0LjcxMDQgMCAwIDEtMC40NjA4LTIuMDQ4bC0wLjE1MzYtMTgwLjIyNGMwLTMuNDMwNCAxLjk0NTYtNi42NTYgNC45NjY0LTguMTkybDE0NS40MDgtNzUuNzI0OGE0LjUwNTYgNC41MDU2IDAgMCAxIDYuMTQ0IDIuMDQ4YzAuMzA3MiAwLjYxNDQgMC41MTIgMS4zMzEyIDAuNTEyIDIuMDQ4ek01MTkuNDI0IDMwNS43NjY0bDE0MS43MjE2IDc0LjEzNzZhNC42NTkyIDQuNjU5MiAwIDAgMSAwIDguMTkybC0xNDQuODQ0OCA3NS40MTc2YTguOTYgOC45NiAwIDAgMS04LjI5NDQgMEwzNjUuNTY4IDM4OS4zMjQ4YTQuNjU5MiA0LjY1OTIgMCAwIDEgMC04LjE5MmwxNDUuNjEyOC03NS4zNjY0YTguOTYgOC45NiAwIDAgMSA4LjI5NDQgMHoiLz48L3N2Zz4=;" value="招聘管理-2" vertex="1">
           <mxGeometry height="50" width="50" x="1297.5" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="MFuzPANJppUq5y8XkTda-35" edge="1" parent="Al-g1gMdhk_kdgcWLs1u-1" source="MFuzPANJppUq5y8XkTda-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.781;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#97D077;" target="MFuzPANJppUq5y8XkTda-6" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MFuzPANJppUq5y8XkTda-15" parent="Al-g1gMdhk_kdgcWLs1u-1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;fillColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="候选人管理" vertex="1">
           <mxGeometry height="100" width="180" x="1190" y="491.5" as="geometry" />
@@ -10486,6 +10494,13 @@
               <mxPoint x="1170" y="410" />
             </Array>
             <mxPoint x="860" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFuzPANJppUq5y8XkTda-37" edge="1" parent="Al-g1gMdhk_kdgcWLs1u-1" source="MFuzPANJppUq5y8XkTda-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#97D077;" target="MFuzPANJppUq5y8XkTda-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MFuzPANJppUq5y8XkTda-18" parent="Al-g1gMdhk_kdgcWLs1u-1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;dashed=1;spacing=2;fillColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="管理后台" vertex="1">
