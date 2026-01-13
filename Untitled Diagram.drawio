@@ -10213,7 +10213,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="外包管理系统架构图--金证" id="6dfMu4yK-vipxuSPPqyC">
-    <mxGraphModel dx="1502" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="501" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-0" />
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-1" parent="Al-g1gMdhk_kdgcWLs1u-0" />
@@ -10250,13 +10250,13 @@
           <mxGeometry height="407" width="667" x="633" y="333" as="geometry" />
         </mxCell>
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-12" parent="Al-g1gMdhk_kdgcWLs1u-1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjI1NiIgd2lkdGg9IjI1NiIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZmlsbD0iIzJDMkMyQyIgZD0iTTUxMiAwTDY4LjQ4IDI1NnY1MTJMNTEyIDEwMjRsNDQzLjUyLTI1NlYyNTZMNTEyIDB6IG0yNTYgNzA3Ljg0YzAgMzAuMDgtMjcuNTg0IDU1LjA0LTY1LjIxNiA1NS4wNC0yNi45NDQgMC01Ny42NjQtMTAuODgtNzYuODY0LTM0LjU2bC0yNTYtMzA0LjcwNHYyODQuMTZhNTQuNCA1NC40IDAgMCAxLTU0LjMzNiA1NS4wNGgtMy4yNjRjLTMwLjc4NCAwLTU1LjA0LTI1LjYtNTUuMDQtNTUuMDRWMzE2LjE2YzAtMzAuMDggMjYuODgtNTUuMDQgNjQtNTUuMDQgMjcuNTg0IDAgNTguODggMTAuODggNzguMDggMzQuNTZsMjU0LjcyIDMwNC43MDRWMzE2LjE2YzAtMzAuNzg0IDI1LjYtNTUuMDQgNTUuMDQtNTUuMDRoMy4yYzMwLjcyIDAgNTUuMDQgMjUuNiA1NS4wNCA1NS4wNHYzOTEuNjhoMC42NHoiLz48L3N2Zz4=;spacing=2;" value="外网NG" vertex="1">
-          <mxGeometry height="50" width="50" x="520" y="510.00000000000006" as="geometry" />
+          <mxGeometry height="50" width="50" x="520" y="604.6700000000001" as="geometry" />
         </mxCell>
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-13" edge="1" parent="Al-g1gMdhk_kdgcWLs1u-1" source="Al-g1gMdhk_kdgcWLs1u-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;spacing=2;" target="Al-g1gMdhk_kdgcWLs1u-12" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="535" />
-              <mxPoint x="490" y="535" />
+              <mxPoint x="490" y="629.67" />
+              <mxPoint x="490" y="629.67" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -10266,16 +10266,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-15" parent="Al-g1gMdhk_kdgcWLs1u-1" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.waf;spacing=2;" value="行业云waf&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="24.705" width="50" x="420" y="525.29" as="geometry" />
+          <mxGeometry height="24.705" width="50" x="420" y="619.9599999999999" as="geometry" />
         </mxCell>
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-16" parent="Al-g1gMdhk_kdgcWLs1u-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;spacing=2;" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.121.76.224&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;10.119.76.206&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="515" y="480" as="geometry" />
+          <mxGeometry height="30" width="60" x="515" y="574.67" as="geometry" />
         </mxCell>
-        <mxCell id="Al-g1gMdhk_kdgcWLs1u-17" edge="1" parent="Al-g1gMdhk_kdgcWLs1u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;spacing=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+        <mxCell id="Al-g1gMdhk_kdgcWLs1u-17" edge="1" parent="Al-g1gMdhk_kdgcWLs1u-1" source="Al-g1gMdhk_kdgcWLs1u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;spacing=2;exitX=0.435;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" target="Al-g1gMdhk_kdgcWLs1u-15" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="394.72" />
-              <mxPoint x="620" y="394.72" />
+              <mxPoint x="480" y="500" />
+              <mxPoint x="400" y="500" />
+              <mxPoint x="400" y="632" />
             </Array>
             <mxPoint x="575" y="394.72" as="sourcePoint" />
             <mxPoint x="660" y="394.72" as="targetPoint" />
@@ -10284,9 +10285,8 @@
         <mxCell id="Al-g1gMdhk_kdgcWLs1u-18" edge="1" parent="Al-g1gMdhk_kdgcWLs1u-1" source="Al-g1gMdhk_kdgcWLs1u-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;curved=0;spacing=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Al-g1gMdhk_kdgcWLs1u-34" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1070" y="235" />
-              <mxPoint x="1070" y="330" />
-              <mxPoint x="695" y="330" />
+              <mxPoint x="590" y="630" />
+              <mxPoint x="590" y="510" />
             </Array>
             <mxPoint x="586.9999999999999" y="382.5" as="sourcePoint" />
             <mxPoint x="650" y="404.9999999999999" as="targetPoint" />
