@@ -4917,24 +4917,21 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图20240305" id="vrq3CehyCDE57bQczdU9">
-    <mxGraphModel dx="2128" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2996" dy="1227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-0" />
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-1" parent="5DQPf7DMDd3WoIMEbBlo-0" />
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-3" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;shadow=1;fontColor=#333333;" value="" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-3" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;shadow=1;fontColor=#333333;fontSize=18;fontStyle=1;textDirection=vertical-lr;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingRight=4;" value="信创行业云" vertex="1">
           <mxGeometry height="729" width="233" x="-560" y="285" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-4" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;shadow=1;fontColor=#333333;" value="" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-4" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;shadow=1;fontColor=#333333;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;fontSize=18;fontStyle=1;spacingRight=5;" value="办公内网" vertex="1">
           <mxGeometry height="174" width="423" x="-749" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-5" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" value="" vertex="1">
+        <mxCell id="5DQPf7DMDd3WoIMEbBlo-5" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;fontSize=18;fontStyle=1;spacingRight=5;" value="互联网" vertex="1">
           <mxGeometry height="389" width="140" x="-750" y="281" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-6" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#cce5ff;shadow=1;" value="s" vertex="1">
           <mxGeometry height="934" width="1600" x="-300" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-7" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#eeeeee;strokeColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;办公内网&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="-743" y="120.42" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-8" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#cce5ff;strokeColor=none;fontSize=18;fontStyle=1" value="&lt;span&gt;信创私有云&lt;/span&gt;" vertex="1">
           <mxGeometry height="70" width="20" x="-290" y="536" as="geometry" />
@@ -4976,9 +4973,6 @@
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-20" parent="5DQPf7DMDd3WoIMEbBlo-1" style="sketch=0;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=image;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJzdmczNjAwOCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTIxLjI1MDg4IDEwMC4wNjkyMyIgaGVpZ2h0PSIxMDAuMDY5MjNtbSIgd2lkdGg9IjEyMS4yNTA4OG1tIj4mI3hhOyAgJiN4YTsgIDxkZWZzIGlkPSJkZWZzMzYwMDUiLz4mI3hhOyAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQ2LjIyMTU4LC05OC4zMzc4OCkiIGlkPSJsYXllcjEiPiYjeGE7ICAgIDxwYXRoIGQ9Im0gNzkuNjMyOTE4LDE0Ni45MDY4OSA2Ljc2MTM0NSw2LjY3NDAxIC0xNC4xNjk0MiwxNC4yODQ0IGggNDcuMDI4OTA3IHYgOS41MDAyIEggNzIuMjI0ODQzIGwgMTQuMjA4NjkyLDE0LjMzNjU5IC02LjczMDMzOSw2LjcwNTAyIC0yNS41NjYzOTQsLTI1LjY2NDA3IHogbSA2Mi4zNDM0MzIsLTIzLjcxOTU4IC02Ljc2MTM1LDYuNjc0MDEgMTQuMTY5NDIsMTQuMjg0NCBoIC00Ny4wMjg5MSB2IDkuNTAwMTkgaCA0Ny4wMjg5MSBsIC0xNC4yMDg2OSwxNC4zMzY2IDYuNzMwMzMsNi43MDUwMiAyNS41NjY0LC0yNS42NjQwNyB6IiBzdHlsZT0iY29sb3I6IzAwMDAwMDtvcGFjaXR5OjE7ZmlsbDojNDI4NWY0O2ZpbGwtb3BhY2l0eToxO3N0cm9rZS13aWR0aDoxOy1pbmtzY2FwZS1zdHJva2U6bm9uZSIgaWQ9InBhdGgzNjE0Mi02Ii8+JiN4YTsgICAgPHBhdGggaWQ9InBhdGgzNjE0NiIgZD0ibSAxMDUuMzM1OTQsOTguMzM3ODkxIGMgLTExLjEyNjE1NywtMC4wMDg1IC0xOS43MDYxNTEsNC45OTk5MjkgLTI1LjQ3ODUxOCwxMS4xNTQyOTkgLTQuODYwMjQ5LDUuMTgxODkgLTcuODUwMDUzLDExLjAzNjc3IC05LjY2MDE1NiwxNS45OTIxOSAtNy45MTYyNCwxLjUyOTA1IC0xNC45NzI2NTksNS44MzI0NCAtMTkuMDk5NjEsMTIuMTAxNTYgbCAtMC4wODIwMywwLjEyNSAtMC4wNzQyMiwwLjEyODkgYyAtMy44NTQxNTcsNi43NDA3NCAtNS4wNjQ5NTksMTIuNDUwODYgLTQuNjM4NjcyLDE3LjI5MTAyIDAuMjM0MDk5LDIuNjU4MDIgMC44OTI4Nyw0Ljk0NSAxLjYyNTExOCw2Ljk0OTk5IGwgNy45ODk2ODcsLTYuNjU1NTggYyAtMC4wNjcxMiwtMC4zNzM1IC0wLjExODQ2OCwtMC43NDg2NSAtMC4xNTE5MTQsLTEuMTI4NCAtMC4yNDI0LC0yLjc1MjI5IDAuMjUzNjU4LC02LjExNTY3IDMuMzMwMDc4LC0xMS41NTY2NCAyLjgwMDQzMiwtNC4xODk2NSA4Ljg1Mjc1NiwtNy44NjkzMyAxNS4xMDM1MTYsLTguNDIxODcgbCAzLjIwODk4NCwtMC4yODMyIDAuOTIzODI4LC0zLjA4NTk0IGMgMS4yNTQ5ODEsLTQuMTkwMDIgNC4wNDA3NTksLTEwLjI1NDYyIDguNDUzMTI1LC0xNC45NTg5OSA0LjQxMjM2NiwtNC43MDQzNiAxMC4xNzYxMywtOC4xNTg3NSAxOC41NTA3ODQsLTguMTUyMzQgeiIgc3R5bGU9ImNvbG9yOiMwMDAwMDA7b3BhY2l0eToxO2ZpbGw6I2FlY2JmYTtmaWxsLW9wYWNpdHk6MTstaW5rc2NhcGUtc3Ryb2tlOm5vbmUiLz4mI3hhOyAgICA8cGF0aCBpZD0icGF0aDM2MTQ4IiBkPSJtIDEwNS4zMzU5NCw5OC4zMzc4OTEgdiA5LjQ5OTk5OSBjIDkuNDA2OTksMCAxNi40NDYyOSwzLjY2MzUyIDIzLjU2OTA1LDEzLjkzMDExIGwgNi45OTQyOCwtNi41MzY0NSBDIDEyNy42MDIxOCwxMDMuOTc3ODYgMTE3LjE5MzcxLDk4LjMzNzg5MSAxMDUuMzM1OTQsOTguMzM3ODkxIFoiIHN0eWxlPSJjb2xvcjojMDAwMDAwO29wYWNpdHk6MTtmaWxsOiM2NjlkZjY7ZmlsbC1vcGFjaXR5OjE7LWlua3NjYXBlLXN0cm9rZTpub25lIi8+JiN4YTsgIDwvZz4mI3hhOzwvc3ZnPg==;shadow=1;dashed=1;labelBackgroundColor=default;strokeColor=default;strokeWidth=1;gradientColor=#FFFFFF;" value="Data Transfer" vertex="1">
           <mxGeometry height="50" width="60" x="610.9000000000002" y="924.0000000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-21" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;互联网&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="-744" y="455" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-22" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;接入网关&lt;/span&gt;" vertex="1">
           <mxGeometry height="33.51" width="20" x="-240" y="501.49" as="geometry" />
@@ -5167,9 +5161,6 @@
             <mxPoint x="399" y="738" as="sourcePoint" />
             <mxPoint x="399" y="480" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5DQPf7DMDd3WoIMEbBlo-78" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;strokeColor=none;fontSize=18;fontStyle=1" value="&lt;span&gt;信创行业云&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="-547.5" y="640" as="geometry" />
         </mxCell>
         <mxCell id="5DQPf7DMDd3WoIMEbBlo-79" parent="5DQPf7DMDd3WoIMEbBlo-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" value="" vertex="1">
           <mxGeometry height="344" width="140" x="-750" y="670" as="geometry" />
