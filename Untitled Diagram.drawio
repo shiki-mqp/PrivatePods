@@ -5512,7 +5512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图（对外）" id="kLVccngBOpDKih88Na9n">
-    <mxGraphModel dx="1665" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2204" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-0" />
         <mxCell id="S0dKGiXYoIEfbldkpOiw-1" parent="S0dKGiXYoIEfbldkpOiw-0" />
@@ -5876,7 +5876,7 @@
           <mxGeometry height="50" width="62.5" x="-5.684341886080802e-14" y="747.2500000000001" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-114" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="TTS/ASR" vertex="1">
-          <mxGeometry height="50" width="62.5" x="271.65" y="747.3900000000001" as="geometry" />
+          <mxGeometry height="50" width="62.5" x="290.01" y="747.3900000000001" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-115" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;fontFamily=Helvetica;dashed=1;" value="公文" vertex="1">
           <mxGeometry height="50" width="62.5" x="-35.690000000000055" y="483.5" as="geometry" />
@@ -5993,13 +5993,13 @@
           <mxGeometry height="50" width="62.5" x="770" y="561.5" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-138" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="电子签章" vertex="1">
-          <mxGeometry height="50" width="62.5" x="127.49999999999994" y="747.3900000000001" as="geometry" />
+          <mxGeometry height="50" width="62.5" x="141.99999999999994" y="747.3900000000001" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-139" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="RPA服务" vertex="1">
           <mxGeometry height="50" width="62.5" x="608.3999999999999" y="747.3900000000001" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-140" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="OCR服务" vertex="1">
-          <mxGeometry height="50" width="62.5" x="437.81" y="747.3900000000001" as="geometry" />
+          <mxGeometry height="50" width="62.5" x="443.81" y="747.3900000000001" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-141" parent="S0dKGiXYoIEfbldkpOiw-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;rotation=-90;fillColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="138" width="207.18" x="1095.31" y="146.08" as="geometry" />
@@ -6027,7 +6027,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b3twSCtIiNAY6AxDDDsF-4" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="大模型" vertex="1">
-          <mxGeometry height="50" width="62.5" x="770" y="747.39" as="geometry" />
+          <mxGeometry height="50" width="62.5" x="768" y="747.39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
