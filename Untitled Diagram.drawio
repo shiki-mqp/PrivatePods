@@ -5512,7 +5512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图（对外）" id="kLVccngBOpDKih88Na9n">
-    <mxGraphModel dx="2112" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-0" />
         <mxCell id="S0dKGiXYoIEfbldkpOiw-1" parent="S0dKGiXYoIEfbldkpOiw-0" />
@@ -5568,7 +5568,10 @@
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-20" edge="1" parent="S0dKGiXYoIEfbldkpOiw-1" source="S0dKGiXYoIEfbldkpOiw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.008;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.981;exitY=0.463;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="-340" y="177.79" />
+              <mxPoint x="-340" y="369.79" />
+            </Array>
             <mxPoint x="-394.6600000000001" y="369.80000000000007" as="sourcePoint" />
             <mxPoint x="-270.14" y="369.83000000000004" as="targetPoint" />
           </mxGeometry>
