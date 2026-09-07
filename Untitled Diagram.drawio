@@ -5512,7 +5512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图（对外）" id="kLVccngBOpDKih88Na9n">
-    <mxGraphModel dx="1842" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-0" />
         <mxCell id="S0dKGiXYoIEfbldkpOiw-1" parent="S0dKGiXYoIEfbldkpOiw-0" />
@@ -5775,7 +5775,7 @@
             <mxPoint x="-702.3800000000001" y="670.9979999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S0dKGiXYoIEfbldkpOiw-75" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/On_Premises_Data_Gateways.svg;rounded=0;shadow=1;dashed=1;dashPattern=12 12;labelBackgroundColor=none;strokeColor=#d6e8d5;fontColor=#000000;fillColor=none;gradientColor=none;imageBackground=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;优行商旅&lt;/span&gt;" vertex="1">
+        <mxCell id="S0dKGiXYoIEfbldkpOiw-75" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/On_Premises_Data_Gateways.svg;rounded=0;shadow=1;dashed=1;dashPattern=12 12;labelBackgroundColor=none;strokeColor=#d6e8d5;fontColor=#000000;fillColor=none;gradientColor=none;imageBackground=none;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;差旅服务&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="60" x="-705" y="920.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-76" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="项目管理" vertex="1">
