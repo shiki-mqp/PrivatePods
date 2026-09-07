@@ -5737,7 +5737,7 @@
         <mxCell id="S0dKGiXYoIEfbldkpOiw-79" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="&amp;nbsp;中台网关" vertex="1">
           <mxGeometry height="50" width="50" x="991.9600000000003" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="S0dKGiXYoIEfbldkpOiw-80" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="&amp;nbsp;Airport网关" vertex="1">
+        <mxCell id="S0dKGiXYoIEfbldkpOiw-80" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="&amp;nbsp;数据网关" vertex="1">
           <mxGeometry height="50" width="50" x="991.96" y="197.12000000000006" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-81" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="&amp;nbsp;存储网关" vertex="1">
