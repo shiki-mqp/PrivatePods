@@ -5512,7 +5512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="一网统管架构图（对外）" id="kLVccngBOpDKih88Na9n">
-    <mxGraphModel dx="1665" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3237" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-0" />
         <mxCell id="S0dKGiXYoIEfbldkpOiw-1" parent="S0dKGiXYoIEfbldkpOiw-0" />
@@ -5545,7 +5545,7 @@
         <mxCell id="S0dKGiXYoIEfbldkpOiw-10" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="企业网关" vertex="1">
           <mxGeometry height="50" width="50" x="-218" y="140.42000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="S0dKGiXYoIEfbldkpOiw-11" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="内管网关&lt;br&gt;（随行等）" vertex="1">
+        <mxCell id="S0dKGiXYoIEfbldkpOiw-11" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="内管网关" vertex="1">
           <mxGeometry height="50" width="50" x="-218" y="347" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-12" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="企业网关" vertex="1">
@@ -5611,7 +5611,7 @@
         <mxCell id="S0dKGiXYoIEfbldkpOiw-28" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;rounded=0;shadow=1;labelBackgroundColor=none;strokeColor=#d6e8d5;fontColor=#000000;fillColor=#d6e8d5;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="60" width="73.18" x="-50" y="924.0000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="S0dKGiXYoIEfbldkpOiw-29" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="内管网关&lt;br&gt;（随行等）" vertex="1">
+        <mxCell id="S0dKGiXYoIEfbldkpOiw-29" parent="S0dKGiXYoIEfbldkpOiw-1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.gateway;fontSize=16;" value="内管网关" vertex="1">
           <mxGeometry height="50" width="50" x="-218" y="867.98" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-30" parent="S0dKGiXYoIEfbldkpOiw-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;dashPattern=12 12;" value="" vertex="1">
