@@ -5998,7 +5998,7 @@
         <mxCell id="S0dKGiXYoIEfbldkpOiw-139" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="RPA服务" vertex="1">
           <mxGeometry height="50" width="62.5" x="739.2099999999999" y="747.2500000000001" as="geometry" />
         </mxCell>
-        <mxCell id="S0dKGiXYoIEfbldkpOiw-140" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="OCR验真" vertex="1">
+        <mxCell id="S0dKGiXYoIEfbldkpOiw-140" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="OCR服务" vertex="1">
           <mxGeometry height="50" width="62.5" x="560" y="747.2500000000001" as="geometry" />
         </mxCell>
         <mxCell id="S0dKGiXYoIEfbldkpOiw-141" parent="S0dKGiXYoIEfbldkpOiw-1" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;rotation=-90;fillColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=none;" value="" vertex="1">
