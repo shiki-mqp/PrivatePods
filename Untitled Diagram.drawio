@@ -6026,6 +6026,9 @@
             <mxPoint x="-340" y="845" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="b3twSCtIiNAY6AxDDDsF-4" parent="S0dKGiXYoIEfbldkpOiw-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1ba1e2;shape=mxgraph.azure.cloud_service;shadow=1;dashed=1;strokeWidth=1;fontSize=16;aspect=fixed;fontColor=#000000;labelBackgroundColor=none;" value="大模型" vertex="1">
+          <mxGeometry height="50" width="62.5" x="760" y="770" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
